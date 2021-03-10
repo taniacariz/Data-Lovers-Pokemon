@@ -1,0 +1,67 @@
+
+* {
+}
+
+body {
+    background-image: url(images/PokémonFondoGris.jpg);
+    font-family: "Calibri','Tahoma";
+    display: block;
+    justify-content: center;
+  }
+
+  /*Configuración imágenes*/
+  
+  .portada {
+    display:block;
+    margin: 0 auto;
+    width: 40% auto;
+    justify-content: center;
+  }
+
+  .imgPokedex {
+    display:block;
+    margin: 0 auto;
+    max-width: 800px;
+    justify-content: center;
+  }
+
+  /*Configuración botones*/
+
+  .botones {
+    width: 80%;
+    max-width: 200px;
+    margin: 30px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    background: #FF3334;
+    border: 4px solid #000000;
+    border-radius: 15px; 
+    box-shadow: 2px 2px 5px rgb(63, 35, 35);
+  }
+
+  .botones:hover {
+    background-color: #b62323;
+    opacity: 0.6;
+
+  }
+
+    /*Configuración botones redes sociales*/
+
+    .centrar{
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;;
+    }
+
+    .fab {
+      text-decoration: none;
+      text-align: center;
+      font-size: 15px;
+      color: #181816 ;
+      border: transparent;
+      margin-right: 5px;
+      margin-left: 5px;
+    }
+    
