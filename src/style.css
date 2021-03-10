@@ -4,12 +4,9 @@
 
 body {
     background-image: url(images/PokémonFondoGris.jpg);
-    font-family: "Calibri','Tahoma";
     display: block;
     justify-content: center;
   }
-
-  /*Configuración imágenes*/
   
   .portada {
     display:block;
@@ -18,19 +15,42 @@ body {
     justify-content: center;
   }
 
-  .imgPokedex {
-    display:block;
-    margin: 0 auto;
-    max-width: 800px;
-    justify-content: center;
+    /*Configuración Pokédex Uno*/
+
+  .button-container{
+    display:inline-block;
+    position:relative;
+ 
   }
+
+  .imgPokedex {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 620px;
+  }
+
+  .botonBuscar {
+    position: absolute;
+    width: 30%;
+    max-width: 180px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    background:#93BF3E;
+    border: 4px solid #000000;
+    border-radius: 15px; 
+    font-family: 'DotGothic16', sans-serif;
+
+  }
+
 
   /*Configuración botones*/
 
   .botones {
-    width: 80%;
-    max-width: 200px;
-    margin: 30px;
+    width: 30%;
+    max-width: 180px;
+    margin: 10px;
     padding: 10px;
     font-size: 18px;
     font-weight: bold;
@@ -38,12 +58,12 @@ body {
     border: 4px solid #000000;
     border-radius: 15px; 
     box-shadow: 2px 2px 5px rgb(63, 35, 35);
+    font-family: 'DotGothic16', sans-serif;
   }
 
   .botones:hover {
     background-color: #b62323;
     opacity: 0.6;
-
   }
 
     /*Configuración botones redes sociales*/
@@ -59,9 +79,17 @@ body {
       text-decoration: none;
       text-align: center;
       font-size: 15px;
-      color: #181816 ;
+      color: #1b1b1b ;
       border: transparent;
       margin-right: 5px;
       margin-left: 5px;
     }
+    
+    .fab:hover {
+      opacity: 0.6;
+    }
+  
+
+
+
     
