@@ -51,10 +51,10 @@
     width: 100vw;
     }
 
-  .dexUno{
+  .pokedexUno{
     width: 700px;
     height: 900px;
-    background-image: url(images/Pokedex1-texto.png);
+    background-image: url(images/Pokedex2-texto.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -63,62 +63,68 @@
 
   .textoUno{
     font-family: 'Assistant', sans-serif;
-    font-size: 24px;
-    margin-top: 450px;
+    font-size: 20px;
+    margin-top: 430px;
     margin-left: 80px;
     margin-right: 135px;
   }
   
-  #subTextoUno{
+  #textoInput{ 
     font-family: 'Assistant', sans-serif;
+    color:#ffffff;
     font-size: 24px;
     margin-top: 450px;
-    margin-left: 80px;
+    margin-left: 95px;
     margin-right: 20px;
   }
 
   .textoDos{
     font-family: 'Assistant', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 20px;
-    margin-left: 80px;
-    margin-right: 135px;
+    margin-left: 90px;
+    margin-right: 120px;
   }
 
   .inputNombre{
     margin-top: 20px;
     background-color: #93BF3E;
-    opacity: 0.6;
+    border: 2px solid #2e2b2b;
+    opacity: 0.8;
     width: 130px;
-    padding: 6px;
-    color: #6e5b5b ;
+    padding: 7px;
     border-radius: 8px;
-    border: transparent;
     font-size: 18px;  
     margin-right: 20px;
   }
 
- /*Pikachu*/
-
-  .pikachuBusqueda{
-    margin-top: 10px;
-    margin-left: 250px;
+  .buttonGo{
+    font-family: 'Prompt', sans-serif;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border: 2px solid #2e2b2b;
+    width: 60px;
+    padding: 4px;
+    color: #201f1f ;
+    border-radius: 8px;
+    font-size: 18px;  
+    margin-right: 20px;
   }
 
-  .pikachuBusqueda:hover{
+  .buttonGo:hover {
     opacity: 0.6;
   }
 
+ /*Pikachu*/
 
-   /*Nombre o número, ticket*/
-
-  .fas {
-    text-decoration: none;
-    color: #2c2424 ;
-    border: transparent;
+ .pikachuBusqueda {
+  margin-top: 10px;
+  margin-left: 230px;
+  height: 200px;
+  width: 200px;
   }
-  
-  .fas:hover {
+
+  .pikachuBusqueda:hover{
     opacity: 0.6;
   }
    
@@ -132,10 +138,9 @@
 .fab {
   text-decoration: none;
   font-size: 15px;
-  color: #1b1b1b ;
+  color: #131212 ;
   border: transparent;
   margin-bottom: 20px;
-  margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -143,4 +148,13 @@
 .fab:hover {
   opacity: 0.6;
 }
+
+/*Configuración Pokédex Dos*/
+
+.contenedorDexUno{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  }
 
