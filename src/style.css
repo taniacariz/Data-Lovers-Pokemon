@@ -71,15 +71,6 @@
     margin-right: 135px;
   }
   
-  #textoInput{ 
-    font-family: 'Assistant', sans-serif;
-    color:#ffffff;
-    font-size: 24px;
-    margin-top: 450px;
-    margin-left: 95px;
-    margin-right: 20px;
-  }
-
   .textoDos{
     font-family: 'Assistant', sans-serif;
     font-size: 20px;
@@ -88,29 +79,39 @@
     margin-right: 120px;
   }
 
+  #textoInput{ 
+    font-family: 'Assistant', sans-serif;
+    color:#ffffff;
+    font-size: 24px;
+    margin-top: 450px;
+    margin-left: 90px;
+    margin-right: 30px;
+  }
+
   .inputNombre{
     margin-top: 20px;
     background-color: #93BF3E;
     border: 2px solid #2e2b2b;
     opacity: 0.8;
     width: 130px;
-    padding: 7px;
+    padding: 5px;
     border-radius: 8px;
     font-size: 18px;  
     margin-right: 20px;
   }
 
-  .buttonGo{
+  #buttonGo{
     font-family: 'Prompt', sans-serif;
     margin-top: 20px;
     background-color: #ffffff;
     border: 2px solid #2e2b2b;
     width: 60px;
-    padding: 4px;
+    padding: 5px;
     color: #201f1f ;
     border-radius: 8px;
-    font-size: 18px;  
+    font-size: 14px;  
     margin-right: 20px;
+    text-decoration:none;
   }
 
   .buttonGo:hover {
