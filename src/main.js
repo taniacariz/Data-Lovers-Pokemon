@@ -1,17 +1,41 @@
-import { example } from './data.js';
-// import data from './data/lol/lol.js';
-import data from './data/pokemon/pokemon.js';
-// import data from './data/rickandmorty/rickandmorty.js';
 
-//declarar una variable - cuál es la longitud del arreglo
-//for para recorrer arreglo
+//Funcion desde Home a Pokedex General
 
-//let arreglo = [100, 101, 102]
-//console.log(arreglo.length)
-//console.log(arreglo[0])
+let btnPikachu = document.getElementById("pikachu")
+btnPikachu.addEventListener("click", nextPageOne)
 
-console.log(example, data);
-console.log(data.pokemon[9].name)
-console.log(data.pokemon[9].generation.name)
-console.log(data.pokemon[9].about)
+function nextPageOne() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("segundaPagina").style.display = "block";
+}
+
+//Funcion desde Home a Botón Superior Izquierdo
+
+let btnLeft = document.getElementById("btnOne")
+btnLeft.addEventListener("click", nextPageLeft)
+
+function nextPageLeft() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("buttonLeft").style.display = "block";
+}
+
+//Funcion desde Home a Botón Superior Centro
+
+let btnCenter = document.getElementById("btnTwo")
+btnCenter.addEventListener("click", nextPageCenter)
+
+function nextPageCenter() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("buttonCenter").style.display = "block";
+}
+
+//Funcion desde Home a Botón Superior Derecha
+
+let btnRight = document.getElementById("btnTree")
+btnRight.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("buttonRight").style.display = "block";
+}
 

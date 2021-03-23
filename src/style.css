@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     min-width: 100vw;
     max-height: 100vh;
+    font-family: 'Assistant', sans-serif;
   }
 
   .portada {
@@ -13,6 +14,14 @@
     margin: 0 auto;
     margin-top: 30px;
     width: 40% auto;
+    justify-content: center;
+  }
+
+  .subPortada {
+    display:block;
+    margin: 0 auto;
+    margin-top: 5px;
+    width: 20%;
     justify-content: center;
   }
 
@@ -68,7 +77,6 @@
   }  
     
   .textoUno{
-    font-family: 'Assistant', sans-serif;
     font-size: 20px;
   }
 
@@ -89,13 +97,11 @@
   }
 
   #textoInput{ 
-    font-family: 'Assistant', sans-serif;
     color:#ffffff;
     font-size: 20px;
   }
 
   #buttonGo{
-    font-family: 'Prompt', sans-serif;
     background-color: #ffffff;
     border: 2px solid #2e2b2b;
     width: 60px;
@@ -112,13 +118,17 @@
 
  /*Pikachu*/
 
- .pikachuBusqueda {
+ #pikachu {
+  background-image: url(images/Pikachu.png); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-bottom: none;
   margin-top: 10px;
   height: 200px;
   width: 200px;
   }
 
-  .pikachuBusqueda:hover{
+ #pikachu:hover{
     opacity: 0.6;
   }
    
@@ -170,14 +180,6 @@
   overflow-y: scroll;
 }  
 
-/*background-image: url(images/Prueba.jpg); 
-background-size: contain;
-background-repeat: repeat;
-
-flex-direction: column;
-align-items: center;*/
-
-
 .backButton{
   width: 100px;
   height: 100px;
@@ -187,7 +189,7 @@ align-items: center;*/
   background: #5cb85c;
 }
 
-/*Configuración Contenedor información Pokémon Go 1*/
+/*Configuración Contenedor Botón Superior Izquierdo*/
 
 .contenedorDexTres{
   display: flex;
@@ -202,19 +204,19 @@ align-items: center;*/
   margin: 0 auto;
 }
 
-/*Configuración Sub Contenedo Pokédex Tres*/
+/*Subconfiguración Contenedor Botón Superior Izquierdo*/
 
 .subContenedorDexTres{
     display: flex;
     border-radius: 20px;
-    width: 530px;
+    width: 500px;
     height: 450px;
     background-image: none;
     margin-bottom: 100px;
 }  
 
   .slider{
-    width: 95%;
+    width: 120%;
     margin: auto;
     overflow: hidden;
 }
@@ -258,5 +260,17 @@ align-items: center;*/
 }
 
 #segundaPagina {
+  display: none;
+}
+
+#buttonLeft {
+  display: none;
+}
+
+#buttonCenter{
+  display: none;
+}
+
+#buttonRight {
   display: none;
 }
