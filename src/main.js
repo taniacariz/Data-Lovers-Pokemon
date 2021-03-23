@@ -50,3 +50,32 @@ function nextPageRight() {
     document.getElementById("buttonRight").style.display = "block";
 }
 
+//Funcion volver desde right
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+    document.getElementById("buttonRight").style.display = "none";
+    document.getElementById("home").style.display = "block";
+}
+
+//Funcion volver desde center
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+    document.getElementById("buttonCenter").style.display = "none";
+    document.getElementById("home").style.display = "block";
+}
+
+//Funcion volver desde left
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+    document.getElementById("buttonLeft").style.display = "none";
+    document.getElementById("home").style.display = "block";
+}
