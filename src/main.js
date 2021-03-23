@@ -1,3 +1,17 @@
+import data from './data/pokemon/pokemon.js';
+console.log(data)
+console.log(data.pokemon[100].name)
+
+for (let i=0;i<data.pokemon.length;i++){
+    console.log(data.pokemon[i].name);
+    }
+
+const information = document.getElementById("info");
+    information.innerHTML = "prueba"
+
+
+
+
 
 //Funcion desde Home a Pokedex General
 

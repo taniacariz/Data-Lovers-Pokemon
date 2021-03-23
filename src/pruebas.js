@@ -12,10 +12,6 @@ console.log(data.pokemon[9].generation.name)
 console.log(data.pokemon[9].about)
 
 
-import { example } from './data.js';
-// import data from './data/lol/lol.js';
-import data from './data/pokemon/pokemon.js';
-// import data from './data/rickandmorty/rickandmorty.js';
 
 
 queremos referenciar una posición dentro del arreglo []
