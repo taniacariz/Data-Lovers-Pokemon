@@ -9,7 +9,6 @@ function nextPageOne() {
     document.getElementById("segundaPagina").style.display = "block";
 }
 
-
 //Funcion desde Home a Botón Superior Izquierdo
 
 let btnLeft = document.getElementById("btnOne")
@@ -20,15 +19,23 @@ function nextPageLeft() {
     document.getElementById("buttonLeft").style.display = "block";
 }
 
+//Funcion desde Home a Botón Superior Centro
 
-//declarar una variable - cuál es la longitud del arreglo
-//for para recorrer arreglo
+let btnCenter = document.getElementById("btnTwo")
+btnCenter.addEventListener("click", nextPageCenter)
 
-//let arreglo = [100, 101, 102]
-//console.log(arreglo.length)
-//console.log(arreglo[0])
+function nextPageCenter() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("buttonCenter").style.display = "block";
+}
 
-console.log(example, data);
-console.log(data.pokemon[9].name)
-console.log(data.pokemon[9].generation.name)
-console.log(data.pokemon[9].about)
+//Funcion desde Home a Botón Superior Derecha
+
+let btnRight = document.getElementById("btnTree")
+btnRight.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+    document.getElementById("home").style.display = "none";
+    document.getElementById("buttonRight").style.display = "block";
+}
+

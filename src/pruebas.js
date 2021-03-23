@@ -1,4 +1,16 @@
 /*
+declarar una variable - cuál es la longitud del arreglo
+for para recorrer arreglo
+
+let arreglo = [100, 101, 102]
+console.log(arreglo.length)
+console.log(arreglo[0])
+
+console.log(example, data);
+console.log(data.pokemon[9].name)
+console.log(data.pokemon[9].generation.name)
+console.log(data.pokemon[9].about)
+
 
 import { example } from './data.js';
 // import data from './data/lol/lol.js';
@@ -43,7 +55,7 @@ dias.map(function(dias){
 console.log(dias.nro+" = > "+dias.día);
 });
 
-*/
+
 
 let dias = [
     {nro:1, dia:"LUNES", mes:"ENERO"},
@@ -53,3 +65,5 @@ let dias = [
 dias.map(function(dias){
     console.log(dias.nro+" => "+dias.dia+" - "+dias.mes);
 })
+
+*/
