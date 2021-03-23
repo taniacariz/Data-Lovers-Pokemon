@@ -1,4 +1,11 @@
 /*
+
+import { example } from './data.js';
+// import data from './data/lol/lol.js';
+import data from './data/pokemon/pokemon.js';
+// import data from './data/rickandmorty/rickandmorty.js';
+
+
 queremos referenciar una posición dentro del arreglo []
 arreglo_numeros = [0,1,2,3,4,5];
 console.log(arreglo_numeros[3]);
