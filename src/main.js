@@ -10,9 +10,6 @@ const information = document.getElementById("info");
     information.innerHTML = "prueba"
 
 
-
-
-
 //Funcion desde Home a Pokedex General
 
 let btnPikachu = document.getElementById("pikachu")
