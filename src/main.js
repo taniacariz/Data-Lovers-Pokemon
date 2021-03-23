@@ -14,3 +14,4 @@ console.log(example, data);
 console.log(data.pokemon[9].name)
 console.log(data.pokemon[9].generation.name)
 console.log(data.pokemon[9].about)
+
