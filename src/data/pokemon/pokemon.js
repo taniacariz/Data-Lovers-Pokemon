@@ -4,7 +4,7 @@ export default {
     "name": "bulbasaur",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "img": "https://www.serebii.net/pokemongo/pokemon/001.png",
@@ -102,7 +102,7 @@ export default {
     "name": "ivysaur",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/002.png",
@@ -200,7 +200,7 @@ export default {
     "name": "venusaur",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "img": "https://www.serebii.net/pokemongo/pokemon/003.png",
@@ -298,7 +298,7 @@ export default {
     "name": "charmander",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
     "img": "https://www.serebii.net/pokemongo/pokemon/004.png",
@@ -394,7 +394,7 @@ export default {
     "name": "charmeleon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
     "img": "https://www.serebii.net/pokemongo/pokemon/005.png",
@@ -497,7 +497,7 @@ export default {
     "name": "charizard",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/006.png",
@@ -615,7 +615,7 @@ export default {
     "name": "squirtle",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
     "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
@@ -709,7 +709,7 @@ export default {
     "name": "wartortle",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
     "img": "https://www.serebii.net/pokemongo/pokemon/008.png",
@@ -803,7 +803,7 @@ export default {
     "name": "blastoise",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
     "img": "https://www.serebii.net/pokemongo/pokemon/009.png",
@@ -897,7 +897,7 @@ export default {
     "name": "caterpie",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
     "img": "https://www.serebii.net/pokemongo/pokemon/010.png",
@@ -976,7 +976,7 @@ export default {
     "name": "metapod",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
     "img": "https://www.serebii.net/pokemongo/pokemon/011.png",
@@ -1055,7 +1055,7 @@ export default {
     "name": "butterfree",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
     "img": "https://www.serebii.net/pokemongo/pokemon/012.png",
@@ -1160,7 +1160,7 @@ export default {
     "name": "weedle",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
     "img": "https://www.serebii.net/pokemongo/pokemon/013.png",
@@ -1243,7 +1243,7 @@ export default {
     "name": "kakuna",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
     "img": "https://www.serebii.net/pokemongo/pokemon/014.png",
@@ -1326,7 +1326,7 @@ export default {
     "name": "beedrill",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Beedrill is extremely territorial. No one should ever approach its nest-this is for their own safety. If angered, they will attack in a furious swarm.",
     "img": "https://www.serebii.net/pokemongo/pokemon/015.png",
@@ -1431,7 +1431,7 @@ export default {
     "name": "pidgey",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
     "img": "https://www.serebii.net/pokemongo/pokemon/016.png",
@@ -1526,7 +1526,7 @@ export default {
     "name": "pidgeotto",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
     "img": "https://www.serebii.net/pokemongo/pokemon/017.png",
@@ -1621,7 +1621,7 @@ export default {
     "name": "pidgeot",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "This Pokémon has a dazzling plumage of beautifullyglossy feathers. Many Trainers are captivated by thestriking beauty of the feathers on its head, compellingthem to choose Pidgeot as their Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/018.png",
@@ -1730,7 +1730,7 @@ export default {
     "name": "rattata",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives-it will make its nest anywhere.",
     "img": "https://www.serebii.net/pokemongo/pokemon/019.png",
@@ -1815,7 +1815,7 @@ export default {
     "name": "raticate",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
     "img": "https://www.serebii.net/pokemongo/pokemon/020.png",
@@ -1900,7 +1900,7 @@ export default {
     "name": "spearow",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
     "img": "https://www.serebii.net/pokemongo/pokemon/021.png",
@@ -1997,7 +1997,7 @@ export default {
     "name": "fearow",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
     "img": "https://www.serebii.net/pokemongo/pokemon/022.png",
@@ -2094,7 +2094,7 @@ export default {
     "name": "ekans",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
     "img": "https://www.serebii.net/pokemongo/pokemon/023.png",
@@ -2191,7 +2191,7 @@ export default {
     "name": "arbok",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
     "img": "https://www.serebii.net/pokemongo/pokemon/024.png",
@@ -2281,7 +2281,7 @@ export default {
     "name": "pikachu",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
     "img": "https://www.serebii.net/pokemongo/pokemon/025.png",
@@ -2380,7 +2380,7 @@ export default {
     "name": "raichu",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
     "img": "https://www.serebii.net/pokemongo/pokemon/026.png",
@@ -2486,7 +2486,7 @@ export default {
     "name": "sandshrew",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
     "img": "https://www.serebii.net/pokemongo/pokemon/027.png",
@@ -2582,7 +2582,7 @@ export default {
     "name": "sandslash",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
     "img": "https://www.serebii.net/pokemongo/pokemon/028.png",
@@ -2671,7 +2671,7 @@ export default {
     "name": "nidoran ♀ (female)",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Nidoran ♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
     "img": "https://www.serebii.net/pokemongo/pokemon/029.png",
@@ -2766,7 +2766,7 @@ export default {
     "name": "nidorina",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
     "img": "https://www.serebii.net/pokemongo/pokemon/030.png",
@@ -2861,7 +2861,7 @@ export default {
     "name": "nidoqueen",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
     "img": "https://www.serebii.net/pokemongo/pokemon/031.png",
@@ -2959,7 +2959,7 @@ export default {
     "name": "nidoran ♂ (male)",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Nidoran ♂ (Male) has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
     "img": "https://www.serebii.net/pokemongo/pokemon/032.png",
@@ -3054,7 +3054,7 @@ export default {
     "name": "nidorino",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
     "img": "https://www.serebii.net/pokemongo/pokemon/033.png",
@@ -3149,7 +3149,7 @@ export default {
     "name": "nidoking",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/034.png",
@@ -3254,7 +3254,7 @@ export default {
     "name": "clefairy",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
     "img": "https://www.serebii.net/pokemongo/pokemon/035.png",
@@ -3347,7 +3347,7 @@ export default {
     "name": "clefable",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step even lets it walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
     "img": "https://www.serebii.net/pokemongo/pokemon/036.png",
@@ -3447,7 +3447,7 @@ export default {
     "name": "vulpix",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its trainer. The six tails become magnificently curled.",
     "img": "https://www.serebii.net/pokemongo/pokemon/037.png",
@@ -3538,7 +3538,7 @@ export default {
     "name": "ninetales",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for one thousand years.",
     "img": "https://www.serebii.net/pokemongo/pokemon/038.png",
@@ -3650,7 +3650,7 @@ export default {
     "name": "jigglypuff",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
     "img": "https://www.serebii.net/pokemongo/pokemon/039.png",
@@ -3757,7 +3757,7 @@ export default {
     "name": "wigglytuff",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/040.png",
@@ -3850,7 +3850,7 @@ export default {
     "name": "zubat",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
     "img": "https://www.serebii.net/pokemongo/pokemon/041.png",
@@ -3955,7 +3955,7 @@ export default {
     "name": "golbat",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
     "img": "https://www.serebii.net/pokemongo/pokemon/042.png",
@@ -4059,7 +4059,7 @@ export default {
     "name": "oddish",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
     "img": "https://www.serebii.net/pokemongo/pokemon/043.png",
@@ -4168,7 +4168,7 @@ export default {
     "name": "gloom",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
     "img": "https://www.serebii.net/pokemongo/pokemon/044.png",
@@ -4277,7 +4277,7 @@ export default {
     "name": "vileplume",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
     "img": "https://www.serebii.net/pokemongo/pokemon/045.png",
@@ -4375,7 +4375,7 @@ export default {
     "name": "paras",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
     "img": "https://www.serebii.net/pokemongo/pokemon/046.png",
@@ -4470,7 +4470,7 @@ export default {
     "name": "parasect",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
     "img": "https://www.serebii.net/pokemongo/pokemon/047.png",
@@ -4572,7 +4572,7 @@ export default {
     "name": "venonat",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
     "img": "https://www.serebii.net/pokemongo/pokemon/048.png",
@@ -4665,7 +4665,7 @@ export default {
     "name": "venomoth",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Venomoth is nocturnal-it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
     "img": "https://www.serebii.net/pokemongo/pokemon/049.png",
@@ -4772,7 +4772,7 @@ export default {
     "name": "diglett",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Diglett are raised in most farms. The reason is simple-wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
     "img": "https://www.serebii.net/pokemongo/pokemon/050.png",
@@ -4868,7 +4868,7 @@ export default {
     "name": "dugtrio",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
     "img": "https://www.serebii.net/pokemongo/pokemon/051.png",
@@ -4964,7 +4964,7 @@ export default {
     "name": "meowth",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
     "img": "https://www.serebii.net/pokemongo/pokemon/052.png",
@@ -5056,7 +5056,7 @@ export default {
     "name": "persian",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/053.png",
@@ -5148,7 +5148,7 @@ export default {
     "name": "psyduck",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
     "img": "https://www.serebii.net/pokemongo/pokemon/054.png",
@@ -5237,7 +5237,7 @@ export default {
     "name": "golduck",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. The Pokémon is definitely much faster than even the most athletic swimmer.",
     "img": "https://www.serebii.net/pokemongo/pokemon/055.png",
@@ -5326,7 +5326,7 @@ export default {
     "name": "mankey",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
     "img": "https://www.serebii.net/pokemongo/pokemon/056.png",
@@ -5415,7 +5415,7 @@ export default {
     "name": "primeape",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
     "img": "https://www.serebii.net/pokemongo/pokemon/057.png",
@@ -5518,7 +5518,7 @@ export default {
     "name": "growlithe",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
     "img": "https://www.serebii.net/pokemongo/pokemon/058.png",
@@ -5609,7 +5609,7 @@ export default {
     "name": "arcanine",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
     "img": "https://www.serebii.net/pokemongo/pokemon/059.png",
@@ -5721,7 +5721,7 @@ export default {
     "name": "poliwag",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/060.png",
@@ -5826,7 +5826,7 @@ export default {
     "name": "poliwhirl",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
     "img": "https://www.serebii.net/pokemongo/pokemon/061.png",
@@ -5938,7 +5938,7 @@ export default {
     "name": "poliwrath",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
     "img": "https://www.serebii.net/pokemongo/pokemon/062.png",
@@ -6051,7 +6051,7 @@ export default {
     "name": "abra",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
     "img": "https://www.serebii.net/pokemongo/pokemon/063.png",
@@ -6144,7 +6144,7 @@ export default {
     "name": "kadabra",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a trainer of this Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/064.png",
@@ -6237,7 +6237,7 @@ export default {
     "name": "alakazam",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
     "img": "https://www.serebii.net/pokemongo/pokemon/065.png",
@@ -6344,7 +6344,7 @@ export default {
     "name": "machop",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Machop's muscles are special-they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
     "img": "https://www.serebii.net/pokemongo/pokemon/066.png",
@@ -6445,7 +6445,7 @@ export default {
     "name": "machoke",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
     "img": "https://www.serebii.net/pokemongo/pokemon/067.png",
@@ -6546,7 +6546,7 @@ export default {
     "name": "machamp",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
     "img": "https://www.serebii.net/pokemongo/pokemon/068.png",
@@ -6668,7 +6668,7 @@ export default {
     "name": "bellsprout",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
     "img": "https://www.serebii.net/pokemongo/pokemon/069.png",
@@ -6766,7 +6766,7 @@ export default {
     "name": "weepinbell",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
     "img": "https://www.serebii.net/pokemongo/pokemon/070.png",
@@ -6871,7 +6871,7 @@ export default {
     "name": "victreebel",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
     "img": "https://www.serebii.net/pokemongo/pokemon/071.png",
@@ -6969,7 +6969,7 @@ export default {
     "name": "tentacool",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
     "img": "https://www.serebii.net/pokemongo/pokemon/072.png",
@@ -7061,7 +7061,7 @@ export default {
     "name": "tentacruel",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/073.png",
@@ -7153,7 +7153,7 @@ export default {
     "name": "geodude",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
     "img": "https://www.serebii.net/pokemongo/pokemon/074.png",
@@ -7253,7 +7253,7 @@ export default {
     "name": "graveler",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
     "img": "https://www.serebii.net/pokemongo/pokemon/075.png",
@@ -7367,7 +7367,7 @@ export default {
     "name": "golem",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
     "img": "https://www.serebii.net/pokemongo/pokemon/076.png",
@@ -7481,7 +7481,7 @@ export default {
     "name": "ponyta",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
     "img": "https://www.serebii.net/pokemongo/pokemon/077.png",
@@ -7579,7 +7579,7 @@ export default {
     "name": "rapidash",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
     "img": "https://www.serebii.net/pokemongo/pokemon/078.png",
@@ -7677,7 +7677,7 @@ export default {
     "name": "slowpoke",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
     "img": "https://www.serebii.net/pokemongo/pokemon/079.png",
@@ -7782,7 +7782,7 @@ export default {
     "name": "slowbro",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
     "img": "https://www.serebii.net/pokemongo/pokemon/080.png",
@@ -7876,7 +7876,7 @@ export default {
     "name": "magnemite",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
     "img": "https://www.serebii.net/pokemongo/pokemon/081.png",
@@ -7967,7 +7967,7 @@ export default {
     "name": "magneton",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/082.png",
@@ -8072,7 +8072,7 @@ export default {
     "name": "farfetch'd",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
     "img": "https://www.serebii.net/pokemongo/pokemon/083.png",
@@ -8165,7 +8165,7 @@ export default {
     "name": "doduo",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
     "img": "https://www.serebii.net/pokemongo/pokemon/084.png",
@@ -8262,7 +8262,7 @@ export default {
     "name": "dodrio",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary-it may decide to peck you.",
     "img": "https://www.serebii.net/pokemongo/pokemon/085.png",
@@ -8359,7 +8359,7 @@ export default {
     "name": "seel",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
     "img": "https://www.serebii.net/pokemongo/pokemon/086.png",
@@ -8462,7 +8462,7 @@ export default {
     "name": "dewgong",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
     "img": "https://www.serebii.net/pokemongo/pokemon/087.png",
@@ -8573,7 +8573,7 @@ export default {
     "name": "grimer",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
     "img": "https://www.serebii.net/pokemongo/pokemon/088.png",
@@ -8670,7 +8670,7 @@ export default {
     "name": "muk",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
     "img": "https://www.serebii.net/pokemongo/pokemon/089.png",
@@ -8774,7 +8774,7 @@ export default {
     "name": "shellder",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
     "img": "https://www.serebii.net/pokemongo/pokemon/090.png",
@@ -8863,7 +8863,7 @@ export default {
     "name": "cloyster",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
     "img": "https://www.serebii.net/pokemongo/pokemon/091.png",
@@ -8967,7 +8967,7 @@ export default {
     "name": "gastly",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
     "img": "https://www.serebii.net/pokemongo/pokemon/092.png",
@@ -9079,7 +9079,7 @@ export default {
     "name": "haunter",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/093.png",
@@ -9191,7 +9191,7 @@ export default {
     "name": "gengar",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
     "img": "https://www.serebii.net/pokemongo/pokemon/094.png",
@@ -9310,7 +9310,7 @@ export default {
     "name": "onix",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
     "img": "https://www.serebii.net/pokemongo/pokemon/095.png",
@@ -9423,7 +9423,7 @@ export default {
     "name": "drowzee",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat you dream through your nostrils.",
     "img": "https://www.serebii.net/pokemongo/pokemon/096.png",
@@ -9511,7 +9511,7 @@ export default {
     "name": "hypno",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
     "img": "https://www.serebii.net/pokemongo/pokemon/097.png",
@@ -9613,7 +9613,7 @@ export default {
     "name": "krabby",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
     "img": "https://www.serebii.net/pokemongo/pokemon/098.png",
@@ -9702,7 +9702,7 @@ export default {
     "name": "kingler",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
     "img": "https://www.serebii.net/pokemongo/pokemon/099.png",
@@ -9798,7 +9798,7 @@ export default {
     "name": "voltorb",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Voltorb was first sighted at a company that manufactures PokÃ© Balls. The link between that sighting and the fact that this Pokémon looks very similar to a PokÃ© Ball remains a mystery.",
     "img": "https://www.serebii.net/pokemongo/pokemon/100.png",
@@ -9892,7 +9892,7 @@ export default {
     "name": "electrode",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
     "img": "https://www.serebii.net/pokemongo/pokemon/101.png",
@@ -9986,7 +9986,7 @@ export default {
     "name": "exeggcute",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
     "img": "https://www.serebii.net/pokemongo/pokemon/102.png",
@@ -10082,7 +10082,7 @@ export default {
     "name": "exeggutor",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
     "img": "https://www.serebii.net/pokemongo/pokemon/103.png",
@@ -10192,7 +10192,7 @@ export default {
     "name": "cubone",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
     "img": "https://www.serebii.net/pokemongo/pokemon/104.png",
@@ -10281,7 +10281,7 @@ export default {
     "name": "marowak",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
     "img": "https://www.serebii.net/pokemongo/pokemon/105.png",
@@ -10370,7 +10370,7 @@ export default {
     "name": "hitmonlee",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
     "img": "https://www.serebii.net/pokemongo/pokemon/106.png",
@@ -10473,7 +10473,7 @@ export default {
     "name": "hitmonchan",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
     "img": "https://www.serebii.net/pokemongo/pokemon/107.png",
@@ -10583,7 +10583,7 @@ export default {
     "name": "lickitung",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
     "img": "https://www.serebii.net/pokemongo/pokemon/108.png",
@@ -10663,7 +10663,7 @@ export default {
     "name": "koffing",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
     "img": "https://www.serebii.net/pokemongo/pokemon/109.png",
@@ -10760,7 +10760,7 @@ export default {
     "name": "weezing",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
     "img": "https://www.serebii.net/pokemongo/pokemon/110.png",
@@ -10857,7 +10857,7 @@ export default {
     "name": "rhyhorn",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
     "img": "https://www.serebii.net/pokemongo/pokemon/111.png",
@@ -10961,7 +10961,7 @@ export default {
     "name": "rhydon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
     "img": "https://www.serebii.net/pokemongo/pokemon/112.png",
@@ -11065,7 +11065,7 @@ export default {
     "name": "chansey",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
     "img": "https://www.serebii.net/pokemongo/pokemon/113.png",
@@ -11161,7 +11161,7 @@ export default {
     "name": "tangela",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
     "img": "https://www.serebii.net/pokemongo/pokemon/114.png",
@@ -11255,7 +11255,7 @@ export default {
     "name": "kangaskhan",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
     "img": "https://www.serebii.net/pokemongo/pokemon/115.png",
@@ -11350,7 +11350,7 @@ export default {
     "name": "horsea",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/116.png",
@@ -11448,7 +11448,7 @@ export default {
     "name": "seadra",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/117.png",
@@ -11553,7 +11553,7 @@ export default {
     "name": "goldeen",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon-it could ram you powerfully with its horn.",
     "img": "https://www.serebii.net/pokemongo/pokemon/118.png",
@@ -11642,7 +11642,7 @@ export default {
     "name": "seaking",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
     "img": "https://www.serebii.net/pokemongo/pokemon/119.png",
@@ -11745,7 +11745,7 @@ export default {
     "name": "staryu",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
     "img": "https://www.serebii.net/pokemongo/pokemon/120.png",
@@ -11841,7 +11841,7 @@ export default {
     "name": "starmie",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Starmie's center section-the core-glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname the gem of the sea.",
     "img": "https://www.serebii.net/pokemongo/pokemon/121.png",
@@ -11956,7 +11956,7 @@ export default {
     "name": "mr. mime",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
     "img": "https://www.serebii.net/pokemongo/pokemon/122.png",
@@ -12046,7 +12046,7 @@ export default {
     "name": "scyther",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
     "img": "https://www.serebii.net/pokemongo/pokemon/123.png",
@@ -12157,7 +12157,7 @@ export default {
     "name": "jynx",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
     "img": "https://www.serebii.net/pokemongo/pokemon/124.png",
@@ -12263,7 +12263,7 @@ export default {
     "name": "electabuzz",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
     "img": "https://www.serebii.net/pokemongo/pokemon/125.png",
@@ -12359,7 +12359,7 @@ export default {
     "name": "magmar",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
     "img": "https://www.serebii.net/pokemongo/pokemon/126.png",
@@ -12459,7 +12459,7 @@ export default {
     "name": "pinsir",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
     "img": "https://www.serebii.net/pokemongo/pokemon/127.png",
@@ -12557,7 +12557,7 @@ export default {
     "name": "tauros",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/128.png",
@@ -12638,7 +12638,7 @@ export default {
     "name": "magikarp",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
     "img": "https://www.serebii.net/pokemongo/pokemon/129.png",
@@ -12704,7 +12704,7 @@ export default {
     "name": "gyarados",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
     "img": "https://www.serebii.net/pokemongo/pokemon/130.png",
@@ -12816,7 +12816,7 @@ export default {
     "name": "lapras",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
     "img": "https://www.serebii.net/pokemongo/pokemon/131.png",
@@ -12915,7 +12915,7 @@ export default {
     "name": "ditto",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
     "img": "https://www.serebii.net/pokemongo/pokemon/132.png",
@@ -12972,7 +12972,7 @@ export default {
     "name": "eevee",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
     "img": "https://www.serebii.net/pokemongo/pokemon/133.png",
@@ -13089,7 +13089,7 @@ export default {
     "name": "vaporeon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
     "img": "https://www.serebii.net/pokemongo/pokemon/134.png",
@@ -13170,7 +13170,7 @@ export default {
     "name": "jolteon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
     "img": "https://www.serebii.net/pokemongo/pokemon/135.png",
@@ -13257,7 +13257,7 @@ export default {
     "name": "flareon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
     "img": "https://www.serebii.net/pokemongo/pokemon/136.png",
@@ -13355,7 +13355,7 @@ export default {
     "name": "porygon",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.",
     "img": "https://www.serebii.net/pokemongo/pokemon/137.png",
@@ -13495,7 +13495,7 @@ export default {
     "name": "omanyte",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
     "img": "https://www.serebii.net/pokemongo/pokemon/138.png",
@@ -13602,7 +13602,7 @@ export default {
     "name": "omastar",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
     "img": "https://www.serebii.net/pokemongo/pokemon/139.png",
@@ -13709,7 +13709,7 @@ export default {
     "name": "kabuto",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
     "img": "https://www.serebii.net/pokemongo/pokemon/140.png",
@@ -13802,7 +13802,7 @@ export default {
     "name": "kabutops",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
     "img": "https://www.serebii.net/pokemongo/pokemon/141.png",
@@ -13902,7 +13902,7 @@ export default {
     "name": "aerodactyl",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
     "img": "https://www.serebii.net/pokemongo/pokemon/142.png",
@@ -13991,7 +13991,7 @@ export default {
     "name": "snorlax",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
     "img": "https://www.serebii.net/pokemongo/pokemon/143.png",
@@ -14083,7 +14083,7 @@ export default {
     "name": "articuno",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
     "img": "https://www.serebii.net/pokemongo/pokemon/144.png",
@@ -14161,7 +14161,7 @@ export default {
     "name": "zapdos",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
     "img": "https://www.serebii.net/pokemongo/pokemon/145.png",
@@ -14247,7 +14247,7 @@ export default {
     "name": "moltres",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/146.png",
@@ -14326,7 +14326,7 @@ export default {
     "name": "dratini",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
     "img": "https://www.serebii.net/pokemongo/pokemon/147.png",
@@ -14421,7 +14421,7 @@ export default {
     "name": "dragonair",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
     "img": "https://www.serebii.net/pokemongo/pokemon/148.png",
@@ -14516,7 +14516,7 @@ export default {
     "name": "dragonite",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
     "img": "https://www.serebii.net/pokemongo/pokemon/149.png",
@@ -14635,7 +14635,7 @@ export default {
     "name": "mewtwo",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart",
     "img": "https://www.serebii.net/pokemongo/pokemon/150.png",
@@ -14725,7 +14725,7 @@ export default {
     "name": "mew",
     "generation": {
       "num": "generation i",
-      "name": "kanto"
+      "name": "Kanto"
     },
     "about": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
     "img": "https://www.serebii.net/pokemongo/pokemon/151.png",
@@ -14835,7 +14835,7 @@ export default {
     "name": "chikorita",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
     "img": "https://www.serebii.net/pokemongo/pokemon/152.png",

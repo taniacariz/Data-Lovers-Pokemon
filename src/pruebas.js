@@ -12,8 +12,6 @@ console.log(data.pokemon[9].generation.name)
 console.log(data.pokemon[9].about)
 
 
-
-
 queremos referenciar una posición dentro del arreglo []
 arreglo_numeros = [0,1,2,3,4,5];
 console.log(arreglo_numeros[3]);

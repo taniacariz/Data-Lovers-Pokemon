@@ -119,13 +119,13 @@
  /*Pikachu*/
 
  #pikachu {
-  background-image: url(images/Pikachu.png); 
-  background-size: contain;
-  background-repeat: no-repeat;
-  border-bottom: none;
-  margin-top: 10px;
-  height: 200px;
-  width: 200px;
+    background-image: url(images/Pikachu.png); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: none;
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
   }
 
  #pikachu:hover{
@@ -135,74 +135,74 @@
  /*Configuración botones redes sociales*/ 
 
  .centrarRedes{
-  display: flex;
-  justify-content: center;
-}
+    display: flex;
+    justify-content: center;
+  }
 
 .fab {
-  text-decoration: none;
-  font-size: 15px;
-  color: #131212 ;
-  border: transparent;
-  margin-bottom: 20px;
-  margin-left: 10px;
-  margin-right: 10px;
-}
+    text-decoration: none;
+    font-size: 15px;
+    color: #131212 ;
+    border: transparent;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 
 .fab:hover {
-  opacity: 0.6;
-}
+    opacity: 0.6;
+  }
 
 /*Configuración Contenedor Imagen Pokédex Dos*/
 
 .contenedorDexDos{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 700px;
-  height: 900px;
-  background-image: url(images/Pokedex3.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin: 0 auto;
-}
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 900px;
+    background-image: url(images/Pokedex3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
 
     /*Configuración Sub Contenedor Pokédex Dos (pantalla scroll)*/
 
 .subContenedorDexDos{
-  display: flex;
-  border-radius: 20px;
-  width: 530px;
-  height: 450px;
-  background-image: linear-gradient(to bottom, #cceafb, #c8e9fc, #c4e8fc, #c0e7fd, #bce6fe, #afe9ff, #a2ebff, #94eeff, #80f5f7, #79fae5, #85fecc, #9fffae);
-  margin-bottom: 100px;
-  overflow-y: scroll;
-}  
+    display: flex;
+    border-radius: 20px;
+    width: 530px;
+    height: 450px;
+    background-image: linear-gradient(to bottom, #cceafb, #c8e9fc, #c4e8fc, #c0e7fd, #bce6fe, #afe9ff, #a2ebff, #94eeff, #80f5f7, #79fae5, #85fecc, #9fffae);
+    margin-bottom: 100px;
+    overflow-y: scroll;
+  }  
 
 .backButton{
-  width: 100px;
-  height: 100px;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-  background: #5cb85c;
-}
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #5cb85c;
+  }
 
 /*Configuración Contenedor Botón Superior Izquierdo*/
 
 .contenedorDexTres{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 700px;
-  height: 900px;
-  background-image: url(images/Pokedex3.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin: 0 auto;
-}
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 900px;
+    background-image: url(images/Pokedex3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
 
 /*Subconfiguración Contenedor Botón Superior Izquierdo*/
 
@@ -213,33 +213,34 @@
     height: 450px;
     background-image: none;
     margin-bottom: 100px;
-}  
+  }  
 
-  .slider{
+.slider{
     width: 120%;
     margin: auto;
     overflow: hidden;
-}
+  }
 
-  .slider ul{
+.slider ul{
     display: flex;
     padding: 0; 
     width: 400%;
 
     animation: cambio 8s infinite;
     animation-direction: alternate; /*repite la secuencia*/
-}
+  }
 
-  .slider li {
+.slider li {
     list-style: none;
-}
+  }
 
-  .slider img{
+.slider img{
     width: 100%;
     border-radius: 30px;
-}
+  }
 
-  @keyframes cambio {
+@keyframes cambio {
+
     0% { margin-left: 0;}
     20% { margin-left: 0;}
 
@@ -251,26 +252,174 @@
 
     75% { margin-left: -300%; }
     100% {margin-left: -300%; }
-}
+  }
 
 /*Configuración none-block*/
 
 #home {
-  display: block;
-}
+    display: block;
+  }
 
 #segundaPagina {
-  display: none;
-}
+    display: none;
+  }
 
 #buttonLeft {
-  display: none;
-}
+    display: none;
+  }
 
 #buttonCenter{
+    display: none;
+  }
+
+#buttonRight {
+    display: none;
+  }
+
+/*Configuración páginas */
+
+.btnControles{
+  text-align: center;
+  width: 50vw;
+  max-width: 200px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: #FF3334;
+  border: 4px solid #000000;
+  border-radius: 15px; 
+  box-shadow: 2px 2px 5px rgb(63, 35, 35);
+}
+
+.btnControles:hover {
+  background-color: #b62323;
+  opacity: 0.6;
+}
+
+/* caja contenedora de todas las cartas pokemones , con flexbox*/
+
+.pokemones {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* caja contenedora del espacio de cada carta pokemon */
+
+.card-container {
+  display: grid;
+  perspective: 700px;
+  padding: 10px;
+}
+
+/* Caja contenedora card*/
+
+.card {
+  display: grid;
+  position: relative;
+  width: 250px;
+  height: 320px;
+  grid-template: 1fr / 1fr;
+  grid-template-areas: "frontAndBack";
+  transform-style: preserve-3d;
+  transition: all 0.7s ease;
+}
+
+.card div {
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+
+/* Imágenes*/
+
+.front {
+  background-image: url(images/fondoCarta.jpg);
+  grid-area: frontAndBack;
+}
+
+.picture {
+  width: 50%;
+}
+
+.front,
+.back {
+  position: relative;
+  display: grid;
+  width: 250px;
+  height: 320px;
+  border-radius: 20px;
+}
+
+.infCardAbout{
+  color: rgb(58, 55, 94);
+  margin: 16px;
+   
+}
+
+.infCard {
+  color: rgb(0, 0, 0);
+  margin-top: -50px;
+  margin-bottom: -50px;
+  text-transform: capitalize;
+}
+
+.headband {
+  background-color: #ffffff;
+  opacity: 0.3;
+  margin-top: 10px;
+  padding-bottom: 20px !important;
+}
+
+/* caja contenedora de la parte delantera de la carta pokemon*/
+
+/* caja contenedora de la parte trasera de la carta pokemon*/
+.back {
+  background-color: rgb(165, 217, 241);
+  grid-area: frontAndBack;
+  transform: rotateY(-180deg);
+}
+
+.card-container:hover .card {
+  transform: rotateY(180deg);
+}
+
+/*Parrafo de la carta */
+
+.card .card-title {
+  font-family: 'Concert One', cursive;
+  padding-top: 0px;
+  color: #49556d;
+  font-size: 20px;
+}
+
+.back p:first-child {
+  color: rgb(105, 102, 102);
+}
+
+/* estilo para párrafos de las cartas */
+
+.card p {
+  padding: 20px 0 0 0;
+  font-size: 15px;
+  text-align: center;
+}
+
+.showResult {
   display: none;
 }
 
-#buttonRight {
-  display: none;
+footer {
+  margin-top: 50px;
+  width: 100%;
+  background: rgb(127, 248, 202);
+  color: rgb(105, 102, 102);
+  text-align: center;
+  height: 50px;
+  position: relative;
+  bottom: 0;
+  padding-top: 20px;
 }
+
+  
