@@ -48,13 +48,7 @@ function nextPageRight() {
 
 //Guarda la data de Pokémon
 
-// variable que guarda la data pokemon
-
 const pokemonList = data.pokemon;
-
-/* función para mostrar todos los pokemones, se utiliza innerHTML para imprimir en pantalla y
- Html dinamico, para elegir informaciones desde la data. */
-
 
 const displayPokemon = (pokemonData) => {
   const pokeCard = document.getElementById('pokemones');
