@@ -55,19 +55,19 @@ const displayPokemon = (pokemonData) => {
   pokemonData.forEach((elem) => {
     pokeCard.innerHTML += `
     
-  <div class="card-container">
+    <div class="card-container">
     <div id="card" class="card">
-      <div id="front" class="front">
-         <p class="card-title"> ${elem.name.toUpperCase()}</p>
-         <p class= "headband"> # ${elem.num}</p>
-         <p> <img  class="picture" src=" ${elem.img}"> </p>
+      <div id="front" class="front"> 
+         <div class="title"> ${elem.name.toUpperCase()}</div>
+         <div class="numberTitle">#${elem.num}</div>
+         <img class="picture" src=" ${elem.img}"></img>
       </div>
 
       <div id="back" class=" back">
-         <p class="infCardAbout">${elem.about}</p> 
-         <p class="infCard"<br>Generación<br>${elem.generation.name}</p> 
-         <p class="infCard">Tipo de Huevo<br>${elem.egg}</p>
-         <p class="infCard">Fortalezas<br>${elem.resistant}</p>
+         <div class="infCardAbout">${elem.about}</div> 
+         <div class="infCardAbout"<br>Generación<br>${elem.generation.name}</div> 
+         <div class="infCardAbout">Tipo de Huevo<br>${elem.egg}</div>
+         <div class="infCardAbout infCard">Fortalezas<br>${elem.resistant.join(', ')}</div>
       </div>
     </div>
   </div>
@@ -75,10 +75,7 @@ const displayPokemon = (pokemonData) => {
   });
 };
 
-
 displayPokemon(pokemonList);
-
-// captura el valor de elección del usuario, e imprime en pantalla
 
 let searchGeneration;
 const containerGeneration = document.getElementById('generation');

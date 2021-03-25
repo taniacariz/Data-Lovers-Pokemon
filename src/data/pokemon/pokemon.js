@@ -14931,7 +14931,7 @@ export default {
     "name": "bayleef",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
     "img": "https://www.serebii.net/pokemongo/pokemon/153.png",
@@ -15027,7 +15027,7 @@ export default {
     "name": "meganium",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
     "img": "https://www.serebii.net/pokemongo/pokemon/154.png",
@@ -15123,7 +15123,7 @@ export default {
     "name": "cyndaquil",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
     "img": "https://www.serebii.net/pokemongo/pokemon/155.png",
@@ -15219,7 +15219,7 @@ export default {
     "name": "quilava",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
     "img": "https://www.serebii.net/pokemongo/pokemon/156.png",
@@ -15315,7 +15315,7 @@ export default {
     "name": "typhlosion",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
     "img": "https://www.serebii.net/pokemongo/pokemon/157.png",
@@ -15411,7 +15411,7 @@ export default {
     "name": "totodile",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
     "img": "https://www.serebii.net/pokemongo/pokemon/158.png",
@@ -15505,7 +15505,7 @@ export default {
     "name": "croconaw",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
     "img": "https://www.serebii.net/pokemongo/pokemon/159.png",
@@ -15599,7 +15599,7 @@ export default {
     "name": "feraligatr",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
     "img": "https://www.serebii.net/pokemongo/pokemon/160.png",
@@ -15693,7 +15693,7 @@ export default {
     "name": "sentret",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
     "img": "https://www.serebii.net/pokemongo/pokemon/161.png",
@@ -15778,7 +15778,7 @@ export default {
     "name": "furret",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
     "img": "https://www.serebii.net/pokemongo/pokemon/162.png",
@@ -15863,7 +15863,7 @@ export default {
     "name": "hoothoot",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
     "img": "https://www.serebii.net/pokemongo/pokemon/163.png",
@@ -15939,7 +15939,7 @@ export default {
     "name": "noctowl",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
     "img": "https://www.serebii.net/pokemongo/pokemon/164.png",
@@ -16030,7 +16030,7 @@ export default {
     "name": "ledyba",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent.",
     "img": "https://www.serebii.net/pokemongo/pokemon/165.png",
@@ -16122,7 +16122,7 @@ export default {
     "name": "ledian",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this-the Pokémon uses the light of the stars as its energy.",
     "img": "https://www.serebii.net/pokemongo/pokemon/166.png",
@@ -16214,7 +16214,7 @@ export default {
     "name": "spinarak",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
     "img": "https://www.serebii.net/pokemongo/pokemon/167.png",
@@ -16307,7 +16307,7 @@ export default {
     "name": "ariados",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
     "img": "https://www.serebii.net/pokemongo/pokemon/168.png",
@@ -16400,7 +16400,7 @@ export default {
     "name": "crobat",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
     "img": "https://www.serebii.net/pokemongo/pokemon/169.png",
@@ -16498,7 +16498,7 @@ export default {
     "name": "chinchou",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
     "img": "https://www.serebii.net/pokemongo/pokemon/170.png",
@@ -16589,7 +16589,7 @@ export default {
     "name": "lanturn",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Lanturn is nicknamed \"the deep-sea star for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
     "img": "https://www.serebii.net/pokemongo/pokemon/171.png",
@@ -16680,7 +16680,7 @@ export default {
     "name": "pichu",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
     "img": "https://www.serebii.net/pokemongo/pokemon/172.png",
@@ -16772,7 +16772,7 @@ export default {
     "name": "cleffa",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
     "img": "https://www.serebii.net/pokemongo/pokemon/173.png",
@@ -16880,7 +16880,7 @@ export default {
     "name": "igglybuff",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
     "img": "https://www.serebii.net/pokemongo/pokemon/174.png",
@@ -16982,7 +16982,7 @@ export default {
     "name": "togepi",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
     "img": "https://www.serebii.net/pokemongo/pokemon/175.png",
@@ -17087,7 +17087,7 @@ export default {
     "name": "togetic",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
     "img": "https://www.serebii.net/pokemongo/pokemon/176.png",
@@ -17189,7 +17189,7 @@ export default {
     "name": "natu",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
     "img": "https://www.serebii.net/pokemongo/pokemon/177.png",
@@ -17281,7 +17281,7 @@ export default {
     "name": "xatu",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
     "img": "https://www.serebii.net/pokemongo/pokemon/178.png",
@@ -17373,7 +17373,7 @@ export default {
     "name": "mareep",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
     "img": "https://www.serebii.net/pokemongo/pokemon/179.png",
@@ -17465,7 +17465,7 @@ export default {
     "name": "flaaffy",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
     "img": "https://www.serebii.net/pokemongo/pokemon/180.png",
@@ -17557,7 +17557,7 @@ export default {
     "name": "ampharos",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/181.png",
@@ -17649,7 +17649,7 @@ export default {
     "name": "bellossom",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands.",
     "img": "https://www.serebii.net/pokemongo/pokemon/182.png",
@@ -17749,7 +17749,7 @@ export default {
     "name": "marill",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
     "img": "https://www.serebii.net/pokemongo/pokemon/183.png",
@@ -17846,7 +17846,7 @@ export default {
     "name": "azumarill",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/184.png",
@@ -17943,7 +17943,7 @@ export default {
     "name": "sudowoodo",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
     "img": "https://www.serebii.net/pokemongo/pokemon/185.png",
@@ -18034,7 +18034,7 @@ export default {
     "name": "politoed",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/186.png",
@@ -18132,7 +18132,7 @@ export default {
     "name": "hoppip",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/187.png",
@@ -18229,7 +18229,7 @@ export default {
     "name": "skiploom",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
     "img": "https://www.serebii.net/pokemongo/pokemon/188.png",
@@ -18326,7 +18326,7 @@ export default {
     "name": "jumpluff",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
     "img": "https://www.serebii.net/pokemongo/pokemon/189.png",
@@ -18423,7 +18423,7 @@ export default {
     "name": "aipom",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
     "img": "https://www.serebii.net/pokemongo/pokemon/190.png",
@@ -18503,7 +18503,7 @@ export default {
     "name": "sunkern",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
     "img": "https://www.serebii.net/pokemongo/pokemon/191.png",
@@ -18598,7 +18598,7 @@ export default {
     "name": "sunflora",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
     "img": "https://www.serebii.net/pokemongo/pokemon/192.png",
@@ -18693,7 +18693,7 @@ export default {
     "name": "yanma",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
     "img": "https://www.serebii.net/pokemongo/pokemon/193.png",
@@ -18780,7 +18780,7 @@ export default {
     "name": "wooper",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
     "img": "https://www.serebii.net/pokemongo/pokemon/194.png",
@@ -18869,7 +18869,7 @@ export default {
     "name": "quagsire",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
     "img": "https://www.serebii.net/pokemongo/pokemon/195.png",
@@ -18958,7 +18958,7 @@ export default {
     "name": "espeon",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
     "img": "https://www.serebii.net/pokemongo/pokemon/196.png",
@@ -19046,7 +19046,7 @@ export default {
     "name": "umbreon",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
     "img": "https://www.serebii.net/pokemongo/pokemon/197.png",
@@ -19128,7 +19128,7 @@ export default {
     "name": "murkrow",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
     "img": "https://www.serebii.net/pokemongo/pokemon/198.png",
@@ -19225,7 +19225,7 @@ export default {
     "name": "slowking",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
     "img": "https://www.serebii.net/pokemongo/pokemon/199.png",
@@ -19322,7 +19322,7 @@ export default {
     "name": "misdreavus",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
     "img": "https://www.serebii.net/pokemongo/pokemon/200.png",
@@ -19415,7 +19415,7 @@ export default {
     "name": "unown",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
     "img": "https://www.serebii.net/pokemongo/pokemon/201.png",
@@ -19475,7 +19475,7 @@ export default {
     "name": "wobbuffet",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
     "img": "https://www.serebii.net/pokemongo/pokemon/202.png",
@@ -19548,7 +19548,7 @@ export default {
     "name": "girafarig",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
     "img": "https://www.serebii.net/pokemongo/pokemon/203.png",
@@ -19630,7 +19630,7 @@ export default {
     "name": "pineco",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
     "img": "https://www.serebii.net/pokemongo/pokemon/204.png",
@@ -19719,7 +19719,7 @@ export default {
     "name": "forretress",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
     "img": "https://www.serebii.net/pokemongo/pokemon/205.png",
@@ -19809,7 +19809,7 @@ export default {
     "name": "dunsparce",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
     "img": "https://www.serebii.net/pokemongo/pokemon/206.png",
@@ -19889,7 +19889,7 @@ export default {
     "name": "gligar",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
     "img": "https://www.serebii.net/pokemongo/pokemon/207.png",
@@ -19983,7 +19983,7 @@ export default {
     "name": "steelix",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
     "img": "https://www.serebii.net/pokemongo/pokemon/208.png",
@@ -20080,7 +20080,7 @@ export default {
     "name": "snubbull",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
     "img": "https://www.serebii.net/pokemongo/pokemon/209.png",
@@ -20169,7 +20169,7 @@ export default {
     "name": "granbull",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
     "img": "https://www.serebii.net/pokemongo/pokemon/210.png",
@@ -20258,7 +20258,7 @@ export default {
     "name": "qwilfish",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
     "img": "https://www.serebii.net/pokemongo/pokemon/211.png",
@@ -20345,7 +20345,7 @@ export default {
     "name": "scizor",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
     "img": "https://www.serebii.net/pokemongo/pokemon/212.png",
@@ -20439,7 +20439,7 @@ export default {
     "name": "shuckle",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
     "img": "https://www.serebii.net/pokemongo/pokemon/213.png",
@@ -20523,7 +20523,7 @@ export default {
     "name": "heracross",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
     "img": "https://www.serebii.net/pokemongo/pokemon/214.png",
@@ -20611,7 +20611,7 @@ export default {
     "name": "sneasel",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
     "img": "https://www.serebii.net/pokemongo/pokemon/215.png",
@@ -20707,7 +20707,7 @@ export default {
     "name": "teddiursa",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
     "img": "https://www.serebii.net/pokemongo/pokemon/216.png",
@@ -20792,7 +20792,7 @@ export default {
     "name": "ursaring",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
     "img": "https://www.serebii.net/pokemongo/pokemon/217.png",
@@ -20877,7 +20877,7 @@ export default {
     "name": "slugma",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Molten magma courses throughout Slugma's circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
     "img": "https://www.serebii.net/pokemongo/pokemon/218.png",
@@ -20968,7 +20968,7 @@ export default {
     "name": "magcargo",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile-just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
     "img": "https://www.serebii.net/pokemongo/pokemon/219.png",
@@ -21061,7 +21061,7 @@ export default {
     "name": "swinub",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
     "img": "https://www.serebii.net/pokemongo/pokemon/220.png",
@@ -21151,7 +21151,7 @@ export default {
     "name": "piloswine",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
     "img": "https://www.serebii.net/pokemongo/pokemon/221.png",
@@ -21241,7 +21241,7 @@ export default {
     "name": "corsola",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
     "img": "https://www.serebii.net/pokemongo/pokemon/222.png",
@@ -21329,7 +21329,7 @@ export default {
     "name": "remoraid",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/223.png",
@@ -21418,7 +21418,7 @@ export default {
     "name": "octillery",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
     "img": "https://www.serebii.net/pokemongo/pokemon/224.png",
@@ -21507,7 +21507,7 @@ export default {
     "name": "delibird",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
     "img": "https://www.serebii.net/pokemongo/pokemon/225.png",
@@ -21593,7 +21593,7 @@ export default {
     "name": "mantine",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
     "img": "https://www.serebii.net/pokemongo/pokemon/226.png",
@@ -21684,7 +21684,7 @@ export default {
     "name": "skarmory",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
     "img": "https://www.serebii.net/pokemongo/pokemon/227.png",
@@ -21770,7 +21770,7 @@ export default {
     "name": "houndour",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled.",
     "img": "https://www.serebii.net/pokemongo/pokemon/228.png",
@@ -21863,7 +21863,7 @@ export default {
     "name": "houndoom",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
     "img": "https://www.serebii.net/pokemongo/pokemon/229.png",
@@ -21956,7 +21956,7 @@ export default {
     "name": "kingdra",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
     "img": "https://www.serebii.net/pokemongo/pokemon/230.png",
@@ -22054,7 +22054,7 @@ export default {
     "name": "phanpy",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
     "img": "https://www.serebii.net/pokemongo/pokemon/231.png",
@@ -22143,7 +22143,7 @@ export default {
     "name": "donphan",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily.",
     "img": "https://www.serebii.net/pokemongo/pokemon/232.png",
@@ -22232,7 +22232,7 @@ export default {
     "name": "porygon2",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
     "img": "https://www.serebii.net/pokemongo/pokemon/233.png",
@@ -22330,7 +22330,7 @@ export default {
     "name": "stantler",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
     "img": "https://www.serebii.net/pokemongo/pokemon/234.png",
@@ -22410,7 +22410,7 @@ export default {
     "name": "smeargle",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found.",
     "img": "https://www.serebii.net/pokemongo/pokemon/235.png",
@@ -22467,7 +22467,7 @@ export default {
     "name": "tyrogue",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
     "img": "https://www.serebii.net/pokemongo/pokemon/236.png",
@@ -22568,7 +22568,7 @@ export default {
     "name": "hitmontop",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.",
     "img": "https://www.serebii.net/pokemongo/pokemon/237.png",
@@ -22657,7 +22657,7 @@ export default {
     "name": "smoochum",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
     "img": "https://www.serebii.net/pokemongo/pokemon/238.png",
@@ -22754,7 +22754,7 @@ export default {
     "name": "elekid",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
     "img": "https://www.serebii.net/pokemongo/pokemon/239.png",
@@ -22857,7 +22857,7 @@ export default {
     "name": "magby",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
     "img": "https://www.serebii.net/pokemongo/pokemon/240.png",
@@ -22964,7 +22964,7 @@ export default {
     "name": "miltank",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
     "img": "https://www.serebii.net/pokemongo/pokemon/241.png",
@@ -23044,7 +23044,7 @@ export default {
     "name": "blissey",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
     "img": "https://www.serebii.net/pokemongo/pokemon/242.png",
@@ -23134,7 +23134,7 @@ export default {
     "name": "raikou",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
     "img": "https://www.serebii.net/pokemongo/pokemon/243.png",
@@ -23216,7 +23216,7 @@ export default {
     "name": "entei",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
     "img": "https://www.serebii.net/pokemongo/pokemon/244.png",
@@ -23302,7 +23302,7 @@ export default {
     "name": "suicune",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
     "img": "https://www.serebii.net/pokemongo/pokemon/245.png",
@@ -23386,7 +23386,7 @@ export default {
     "name": "larvitar",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
     "img": "https://www.serebii.net/pokemongo/pokemon/246.png",
@@ -23487,7 +23487,7 @@ export default {
     "name": "pupitar",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
     "img": "https://www.serebii.net/pokemongo/pokemon/247.png",
@@ -23588,7 +23588,7 @@ export default {
     "name": "tyranitar",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
     "img": "https://www.serebii.net/pokemongo/pokemon/248.png",
@@ -23691,7 +23691,7 @@ export default {
     "name": "lugia",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Lugia's wings pack devastating power-a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
     "img": "https://www.serebii.net/pokemongo/pokemon/249.png",
@@ -23778,7 +23778,7 @@ export default {
     "name": "ho-oh",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
     "img": "https://www.serebii.net/pokemongo/pokemon/250.png",
@@ -23867,7 +23867,7 @@ export default {
     "name": "celebi",
     "generation": {
       "num": "generation ii",
-      "name": "johto"
+      "name": "Johto"
     },
     "about": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
     "img": "https://www.serebii.net/pokemongo/pokemon/251.png",

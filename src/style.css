@@ -1,219 +1,219 @@
-  * {cursor: url(https://cur.cursors-4u.net/games/gam-13/gam1282.cur), auto !important;}
+* {cursor: url(https://cur.cursors-4u.net/games/gam-13/gam1282.cur), auto !important;}
 
-  body {
-    background-image: url(images/PokémonFondoGris2.jpg); 
-    justify-content: center;
-    background-repeat: no-repeat;
-    min-width: 100vw;
-    max-height: 100vh;
-    font-family: 'Assistant', sans-serif;
+body {
+  background-image: url(images/PokémonFondoGris2.jpg); 
+  justify-content: center;
+  background-repeat: no-repeat;
+  min-width: 100vw;
+  max-height: 100vh;
+  font-family: 'Assistant', sans-serif;
+}
+
+.portada {
+  display:block;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 40% auto;
+  justify-content: center;
+}
+
+.subPortada {
+  display:block;
+  margin: 0 auto;
+  margin-top: 5px;
+  width: 20%;
+  justify-content: center;
+}
+
+/*Centrar botones superiores*/
+
+.centrar{
+  display: flex;
+  justify-content: center;
+}
+
+/*Configuración botones superiores*/
+
+.botones {
+  width: 50vw;
+  max-width: 200px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background: #FF3334;
+  border: 4px solid #000000;
+  border-radius: 15px; 
+  box-shadow: 2px 2px 5px rgb(63, 35, 35);
+}
+
+.botones:hover {
+  background-color: #b62323;
+  opacity: 0.6;
+}
+
+  /*Configuración Contenedor Imagen Pokédex Uno*/
+
+.contenedorDexUno{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 700px;
+  height: 900px;
+  background-image: url(images/Pokedex2-texto.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  justify-content: flex-end;
+  margin: 0 auto;
   }
 
-  .portada {
-    display:block;
-    margin: 0 auto;
-    margin-top: 30px;
-    width: 40% auto;
-    justify-content: center;
-  }
+  /*Configuración Sub Contenedo Pokédex Uno*/
 
-  .subPortada {
-    display:block;
-    margin: 0 auto;
-    margin-top: 5px;
-    width: 20%;
-    justify-content: center;
-  }
+.subContenedorDexUno{
+  width: 480px;
+  height: 450px;
+  margin-right: 40px;
+  text-align: center;
+}  
+  
+.textoUno{
+  font-size: 20px;
+}
 
-  /*Centrar botones superiores*/
+.inputNombre{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #93BF3E;
+  border: 2px solid #2e2b2b;
+  width: 130px;
+  padding: 5px;
+  border-radius: 8px;
+  font-size: 18px;
+  margin: 20px; 
+}
 
-  .centrar{
-    display: flex;
-    justify-content: center;
-  }
+.inputNombre:hover {
+  opacity: 0.6;
+}
 
-  /*Configuración botones superiores*/
+#textoInput{ 
+  color:#ffffff;
+  font-size: 20px;
+}
 
-  .botones {
-    width: 50vw;
-    max-width: 200px;
-    margin: 10px;
-    padding: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    background: #FF3334;
-    border: 4px solid #000000;
-    border-radius: 15px; 
-    box-shadow: 2px 2px 5px rgb(63, 35, 35);
-  }
+#buttonGo{
+  background-color: #ffffff;
+  border: 2px solid #2e2b2b;
+  width: 60px;
+  padding: 5px;
+  color: #201f1f ;
+  border-radius: 8px;
+  font-size: 14px;  
+  text-decoration:none;
+}
 
-  .botones:hover {
-    background-color: #b62323;
-    opacity: 0.6;
-  }
+#buttonGo:hover {
+  opacity: 0.6;
+}
 
-    /*Configuración Contenedor Imagen Pokédex Uno*/
+/*Pikachu*/
 
-  .contenedorDexUno{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 700px;
-    height: 900px;
-    background-image: url(images/Pokedex2-texto.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    justify-content: flex-end;
-    margin: 0 auto;
-    }
+#pikachu {
+  background-image: url(images/Pikachu.png); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-bottom: none;
+  margin-top: 10px;
+  height: 200px;
+  width: 200px;
+}
 
-    /*Configuración Sub Contenedo Pokédex Uno*/
+#pikachu:hover{
+  opacity: 0.6;
+}
+ 
+/*Configuración botones redes sociales*/ 
 
-  .subContenedorDexUno{
-    width: 480px;
-    height: 450px;
-    margin-right: 40px;
-    text-align: center;
-  }  
-    
-  .textoUno{
-    font-size: 20px;
-  }
-
-  .inputNombre{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color: #93BF3E;
-    border: 2px solid #2e2b2b;
-    width: 130px;
-    padding: 5px;
-    border-radius: 8px;
-    font-size: 18px;
-    margin: 20px; 
-  }
-
-  .inputNombre:hover {
-    opacity: 0.6;
-  }
-
-  #textoInput{ 
-    color:#ffffff;
-    font-size: 20px;
-  }
-
-  #buttonGo{
-    background-color: #ffffff;
-    border: 2px solid #2e2b2b;
-    width: 60px;
-    padding: 5px;
-    color: #201f1f ;
-    border-radius: 8px;
-    font-size: 14px;  
-    text-decoration:none;
-  }
-
-  #buttonGo:hover {
-    opacity: 0.6;
-  }
-
- /*Pikachu*/
-
- #pikachu {
-    background-image: url(images/Pikachu.png); 
-    background-size: contain;
-    background-repeat: no-repeat;
-    border-bottom: none;
-    margin-top: 10px;
-    height: 200px;
-    width: 200px;
-  }
-
- #pikachu:hover{
-    opacity: 0.6;
-  }
-   
- /*Configuración botones redes sociales*/ 
-
- .centrarRedes{
-    display: flex;
-    justify-content: center;
-  }
+.centrarRedes{
+  display: flex;
+  justify-content: center;
+}
 
 .fab {
-    text-decoration: none;
-    font-size: 15px;
-    color: #131212 ;
-    border: transparent;
-    margin-bottom: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+  text-decoration: none;
+  font-size: 15px;
+  color: #131212 ;
+  border: transparent;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 .fab:hover {
-    opacity: 0.6;
-  }
+  opacity: 0.6;
+}
 
 /*Configuración Contenedor Imagen Pokédex Dos*/
 
 .contenedorDexDos{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 700px;
-    height: 900px;
-    background-image: url(images/Pokedex3.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: 0 auto;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  height: 900px;
+  background-image: url(images/Pokedex3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
 
-    /*Configuración Sub Contenedor Pokédex Dos (pantalla scroll)*/
+  /*Configuración Sub Contenedor Pokédex Dos (pantalla scroll)*/
 
 .subContenedorDexDos{
-    display: flex;
-    border-radius: 20px;
-    width: 530px;
-    height: 450px;
-    background-image: linear-gradient(to bottom, #cceafb, #c8e9fc, #c4e8fc, #c0e7fd, #bce6fe, #afe9ff, #a2ebff, #94eeff, #80f5f7, #79fae5, #85fecc, #9fffae);
-    margin-bottom: 100px;
-    overflow-y: scroll;
-  }  
+  display: flex;
+  border-radius: 20px;
+  width: 530px;
+  height: 450px;
+  background-image: linear-gradient(to bottom, #cceafb, #c8e9fc, #c4e8fc, #c0e7fd, #bce6fe, #afe9ff, #a2ebff, #94eeff, #80f5f7, #79fae5, #85fecc, #9fffae);
+  margin-bottom: 100px;
+  overflow-y: scroll;
+}  
 
 .backButton{
-    width: 100px;
-    height: 100px;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    border-radius: 50%;
-    background: #5cb85c;
-  }
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #5cb85c;
+}
 
 /*Configuración Contenedor Botón Superior Izquierdo*/
 
 .contenedorDexTres{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 700px;
-    height: 900px;
-    background-image: url(images/Pokedex3.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: 0 auto;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  height: 900px;
+  background-image: url(images/Pokedex3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
 
 /*Subconfiguración Contenedor Botón Superior Izquierdo*/
 
 .subContenedorDexTres{
-    display: flex;
-    border-radius: 20px;
-    width: 500px;
-    height: 450px;
-    background-image: none;
-    margin-bottom: 100px;
-  }  
+  display: flex;
+  border-radius: 20px;
+  width: 500px;
+  height: 450px;
+  background-image: none;
+  margin-bottom: 100px;
+}  
 
 .slider{
     width: 120%;
@@ -279,12 +279,11 @@
 /*Configuración páginas */
 
 .btnControles{
-  text-align: center;
   width: 50vw;
   max-width: 200px;
   margin: 10px;
   padding: 10px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   background: #FF3334;
   border: 4px solid #000000;
@@ -297,21 +296,13 @@
   opacity: 0.6;
 }
 
-/* caja contenedora de todas las cartas pokemones , con flexbox*/
 
-.pokemones {
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-/* caja contenedora del espacio de cada carta pokemon */
+/* Caja contenedora del espacio de cada carta pokemon */
 
 .card-container {
-  display: grid;
-  perspective: 700px;
-  padding: 10px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 10px;
 }
 
 /* Caja contenedora card*/
@@ -319,7 +310,7 @@
 .card {
   display: grid;
   position: relative;
-  width: 250px;
+  width: 220px;
   height: 320px;
   grid-template: 1fr / 1fr;
   grid-template-areas: "frontAndBack";
@@ -332,51 +323,57 @@
   transform-style: preserve-3d;
 }
 
-/* Imágenes*/
+/*Configuracion Card parte delantera*/
 
 .front {
-  background-image: url(images/fondoCarta.jpg);
+  background-image: url(images/fondoCartaBebe.jpg);
   grid-area: frontAndBack;
 }
 
+.numberTitle {
+  text-align:center; 
+  margin: auto;
+  padding:10px; 
+  width: 120px;
+  border:none; 
+  border-radius: 20px;
+  font:30px Arial, Helvetica, sans-serif; 
+  font-weight:bold; 
+  color:#1f212b; 
+  background:#ffffff; 
+  opacity: 0.5;
+}
+
 .picture {
-  width: 50%;
+  width: 70%;
+  margin: 0 auto;
 }
 
 .front,
 .back {
   position: relative;
   display: grid;
-  width: 250px;
-  height: 320px;
+  width: 230px;
+  height: 300px;
   border-radius: 20px;
 }
 
-.infCardAbout{
-  color: rgb(58, 55, 94);
-  margin: 16px;
-   
+.infCardAbout{ 
+  text-align: center;
+  font-size: 15px;
+  margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .infCard {
-  color: rgb(0, 0, 0);
-  margin-top: -50px;
-  margin-bottom: -50px;
   text-transform: capitalize;
 }
 
-.headband {
-  background-color: #ffffff;
-  opacity: 0.3;
-  margin-top: 10px;
-  padding-bottom: 20px !important;
-}
+/* Parte trasera card*/
 
-/* caja contenedora de la parte delantera de la carta pokemon*/
-
-/* caja contenedora de la parte trasera de la carta pokemon*/
 .back {
-  background-color: rgb(165, 217, 241);
+  background-image: url(images/fondoCarta.jpg);
   grid-area: frontAndBack;
   transform: rotateY(-180deg);
 }
@@ -387,39 +384,16 @@
 
 /*Parrafo de la carta */
 
-.card .card-title {
+.card .title {
   font-family: 'Concert One', cursive;
-  padding-top: 0px;
-  color: #49556d;
-  font-size: 20px;
+  color: #0707079c;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 14px;
 }
 
-.back p:first-child {
-  color: rgb(105, 102, 102);
-}
-
-/* estilo para párrafos de las cartas */
-
-.card p {
-  padding: 20px 0 0 0;
+.back title:first-child {
+  color:  #070f1d;
   font-size: 15px;
-  text-align: center;
 }
-
-.showResult {
-  display: none;
-}
-
-footer {
-  margin-top: 50px;
-  width: 100%;
-  background: rgb(127, 248, 202);
-  color: rgb(105, 102, 102);
-  text-align: center;
-  height: 50px;
-  position: relative;
-  bottom: 0;
-  padding-top: 20px;
-}
-
   
