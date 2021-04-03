@@ -26,6 +26,18 @@ function nextPageLeft() {
   document.getElementById("buttonLeft").style.display = "block";
 }
 
+/*Funcion volver desde Botón Superior Izquierdo
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+  document.getElementById("buttonLeft").style.display = "none";
+  document.getElementById("home").style.display = "block";
+}
+
+*/
+
 //Funcion desde Home a Botón Superior Centro
 
 let btnCenter = document.getElementById("btnTwo")
@@ -36,6 +48,17 @@ function nextPageCenter() {
   document.getElementById("buttonCenter").style.display = "block";
 }
 
+/*Funcion volver desde Botón Superior Centro
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+  document.getElementById("buttonCenter").style.display = "none";
+  document.getElementById("home").style.display = "block";
+}
+*/
+
 //Funcion desde Home a Botón Superior Derecha
 
 let btnRight = document.getElementById("btnTree")
@@ -45,6 +68,18 @@ function nextPageRight() {
   document.getElementById("home").style.display = "none";
   document.getElementById("buttonRight").style.display = "block";
 }
+
+
+/*Funcion volver desde Botón Superior Derecho
+
+let btnBack = document.getElementById("btnBack")
+btnBack.addEventListener("click", nextPageRight)
+
+function nextPageRight() {
+  document.getElementById("buttonRight").style.display = "none";
+  document.getElementById("home").style.display = "block";
+}
+*/
 
 //Guarda la data de Pokémon
 
