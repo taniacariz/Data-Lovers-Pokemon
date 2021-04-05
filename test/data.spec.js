@@ -1,4 +1,5 @@
-import { example, anotherExample } from '../src/data.js';
+export {
+  filterByGeneration, filterByType, orderByName, searchByName,} from '../src/data.js';
 
 
 describe('example', () => {
@@ -6,6 +7,7 @@ describe('example', () => {
     expect(typeof example).toBe('function');
   });
 
+  
   it('returns `example`', () => {
     expect(example()).toBe('example');
   });

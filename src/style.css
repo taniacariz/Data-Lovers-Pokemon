@@ -443,3 +443,33 @@ footer {
   font-size: 16px;
 } 
   
+
+/*Botón Back*/
+
+.btnBack {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  margin-left: 550px;
+  margin-top: 780px;
+  opacity: 0%;
+  border-radius: 1000px;
+}
+
+.btnBack:hover {
+  opacity: 0.6;
+}
+
+.btnBackTwo {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  margin-left: 460px;
+  margin-top: 720px;
+  opacity: 0%;
+  border-radius: 1000px;
+}
+
+.btnBackTwo:hover {
+  opacity: 0.6;
+}
