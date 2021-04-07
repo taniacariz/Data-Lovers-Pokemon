@@ -23,7 +23,7 @@ footer {
 }
 
 .subPortada {
-  display:block;
+  display: block;
   margin: 0 auto;
   margin-top: 5px;
   width: 20%;
@@ -219,10 +219,11 @@ footer {
 .subContenedorTexto{
   height: 120PX;
   margin-top: 90px;
-  width: 420px;
+  width: 410px;
   text-align: center;
   margin-left: 20px;
   font-size: 18px;
+  padding-right: 10px;
 } 
 
 .scroll{
@@ -242,7 +243,7 @@ footer {
 } 
 
 .scroll::-webkit-scrollbar-thumb {
-  background-color: #777c77;
+  background-color: #777c77a4;
   border-radius: 20px;
 }
 
@@ -460,7 +461,7 @@ footer {
   opacity: 0.6;
 }
 
-.btnBackTwo {
+.btnBackDex{
   position: absolute;
   width: 60px;
   height: 60px;
@@ -470,6 +471,6 @@ footer {
   border-radius: 1000px;
 }
 
-.btnBackTwo:hover {
+.btnBackDex:hover {
   opacity: 0.6;
 }

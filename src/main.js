@@ -16,6 +16,17 @@ function nextPageOne() {
   document.getElementById("segundaPagina").style.display = "block";
 }
 
+//Funcion desde Pokedex a Home
+
+let btnBackDex = document.getElementById("btnBackDex")
+btnBackDex.addEventListener("click", homePageDex)
+
+function homePageDex() {
+  document.getElementById("segundaPagina").style.display = "none";
+  document.getElementById("home").style.display = "block";
+}
+
+
 //Funcion desde Home a Botón Superior Izquierdo
 
 let btnLeft = document.getElementById("btnOne")
@@ -46,15 +57,15 @@ function nextPageCenter() {
   document.getElementById("buttonCenter").style.display = "block";
 }
 
-/*Funcion BACK Botón Superior Centro 
+//Funcion BACK Botón Superior Centro 
 
-let btnBack = document.getElementById("btnBack")
-btnBack.addEventListener("click", homePage)
+let btnBackOne = document.getElementById("btnBackOne")
+btnBackOne.addEventListener("click", homePageOne)
 
-function homePage (){
+function homePageOne (){
   document.getElementById("buttonCenter").style.display = "none";
   document.getElementById("home").style.display = "block";
-}*/
+}
 
 //Funcion desde Home a Botón Superior Derecha
 
@@ -68,15 +79,13 @@ function nextPageRight() {
 
 //Funcion BACK Botón Superior Derecho
 
-/*
-let btnBack = document.getElementById("btnBack")
-btnBack.addEventListener("click", homePage)
+let btnBackTwo = document.getElementById("btnBackTwo")
+btnBackTwo.addEventListener("click", homePageTwo)
 
-function homePage() {
+function homePageTwo() {
   document.getElementById("buttonRight").style.display = "none";
   document.getElementById("home").style.display = "block";
 }
-*/
 
 
 //Guarda la data de Pokémon
