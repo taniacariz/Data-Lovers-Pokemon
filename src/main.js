@@ -1,9 +1,6 @@
 import data from './data/pokemon/pokemon.js';
 import {
-  filterByGeneration,
-  filterByType,
-  orderByName,
-  searchByName,
+  filterByGeneration, filterByType, orderByName,
 } from './data.js';
 
 //Funcion desde Home a Pokedex General
@@ -25,7 +22,6 @@ function homePageDex() {
   document.getElementById("segundaPagina").style.display = "none";
   document.getElementById("home").style.display = "block";
 }
-
 
 //Funcion desde Home a Botón Superior Izquierdo
 
@@ -62,7 +58,7 @@ function nextPageCenter() {
 let btnBackOne = document.getElementById("btnBackOne")
 btnBackOne.addEventListener("click", homePageOne)
 
-function homePageOne (){
+function homePageOne() {
   document.getElementById("buttonCenter").style.display = "none";
   document.getElementById("home").style.display = "block";
 }
@@ -88,9 +84,12 @@ function homePageTwo() {
 }
 
 
-//Guarda la data de Pokémon
+//Variable que guarda la data Pokémon
 
 const pokemonList = data.pokemon;
+
+//ForEach se ejecuta por cada elemento del array.
+// Función para mostrar todos los pokémon, se utiliza innerHTML para mostrar la información en pantalla. 
 
 const displayPokemon = (pokemonData) => {
   const pokeCard = document.getElementById('pokemones');
@@ -126,6 +125,8 @@ containerGeneration.addEventListener('change', () => {
   closePokemones.innerHTML = '';
   searchGeneration = containerGeneration.value;
 
+  //Filtrar según generación 
+
   displayPokemon(filterByGeneration(pokemonList, searchGeneration));
 });
 
@@ -150,12 +151,3 @@ containerOrder.addEventListener('change', () => {
   displayPokemon(pokemonList);
 });
 
-let searchPokemon;
-const btnBuscar = document.getElementById('btnBuscar');
-btnBuscar.addEventListener('click', () => {
-  searchPokemon = document.getElementById('box').value;
-  const closePokemones = document.getElementById('pokemones');
-  closePokemones.innerHTML = '';
-
-  displayPokemon(searchByName(pokemonList, searchPokemon));
-});

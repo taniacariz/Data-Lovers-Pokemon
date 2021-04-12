@@ -1,25 +1,18 @@
-export {
-  filterByGeneration, filterByType, orderByName, searchByName,} from '../src/data.js';
+import {
+  filterByGeneration, filterByType, orderByName,
+} from '../src/data.js';
+import data from '../src/data/pokemon/pokemon.js';
 
 
-describe('example', () => {
-  it('is a function', () => {
-    expect(typeof example).toBe('function');
-  });
 
-  
-  it('returns `example`', () => {
-    expect(example()).toBe('example');
+describe('filterByGeneration', () => {
+  it('nos da la cantidad de Pokémon Kanto', () => {
+    expect(filterByGeneration(data.pokemon, 'Kanto')).toHaveLength(151);
   });
 });
 
-
-describe('anotherExample', () => {
-  it('is a function', () => {
-    expect(typeof anotherExample).toBe('function');
-  });
-
-  it('returns `anotherExample`', () => {
-    expect(anotherExample()).toBe('OMG');
-  });
+describe('filterByType', () => {
+  it('Nos da la cantidad específica de Pokémon por tipo', () => {
+    expect(filterByType(data.pokemon, 'water')).toHaveLength(50);
+  }); 
 });

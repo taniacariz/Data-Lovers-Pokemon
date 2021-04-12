@@ -23,10 +23,10 @@ footer {
 }
 
 .subPortada {
-  display: block;
+  display:block;
   margin: 0 auto;
-  margin-top: 5px;
-  width: 20%;
+  margin-top: 30px;
+  width: 25%;
   justify-content: center;
 }
 
@@ -333,7 +333,6 @@ footer {
   opacity: 0.6;
 }
 
-
 /* Caja contenedora del espacio de cada carta pokemon */
 
 .card-container {
@@ -443,22 +442,22 @@ footer {
   margin-right: 70px;
   font-size: 16px;
 } 
-  
 
 /*Botón Back*/
 
 .btnBack {
   position: absolute;
-  width: 60px;
-  height: 60px;
-  margin-left: 550px;
-  margin-top: 780px;
+  width: 58px;
+  height: 58px;
+  margin-left: 552px;
+  margin-top: 781px;
   opacity: 0%;
-  border-radius: 1000px;
+  border-radius: 50%;
 }
 
 .btnBack:hover {
   opacity: 0.6;
+  background-color: #303d36;
 }
 
 .btnBackDex{
@@ -473,4 +472,14 @@ footer {
 
 .btnBackDex:hover {
   opacity: 0.6;
+}
+
+/*Textos*/
+
+p1 {
+  font-size: 22px;
+}
+
+p2{
+  font-size: 18px;
 }
