@@ -1,0 +1,19 @@
+¿Que formas hay para crear elementos HTML?
+
+- Podemos crearlo directamente en el archivo index.html
+
+<div id="home" class="header"> </div>
+
+- Podemos crearlo con createElement y appendChild
+
+//Paso 1: crear el HTML Element
+let myDiv = document.createElement('div');
+//Paso 2: configurarlo
+myDiv.id = "home";
+myDiv.classList.add("header");
+//Paso 3:
+document.body.appendChild(myDiv);
+
+- Usar el InnerHTML
+
+
