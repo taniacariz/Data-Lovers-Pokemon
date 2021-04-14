@@ -16,4 +16,21 @@ document.body.appendChild(myDiv);
 
 - Usar el InnerHTML
 
+------------------------------------------------------
+//Reduce
+//Calcular el promedio de peso de todos los pokemons
+// suma de todos los pesos / el total de pokemon
+
+let sumaPesos = data.pokemon.reduce(
+
+  (acumulador, pokemon) => {
+    acumulador = acumulador + Number.parseFloat(pokemon.size.weight.replace(' kg', ''));
+    return acumulador;
+  },
+  0
+)
+
+let totalPokemons = data.pokemon.length; //251
+let promedioPesos = sumaPesos / totalPokemons;
+console.log(promedioPesos);
 
