@@ -1,6 +1,6 @@
 import data from './data/pokemon/pokemon.js';
 import {
-  filterByGeneration, filterByType, orderByName,
+  filterByGeneration, filterByType, orderByName, filterByResistant, orderByNum,
 } from './data.js';
 
 //Funcion desde Home a Pokedex General
@@ -118,6 +118,8 @@ const displayPokemon = (pokemonData) => {
 
 displayPokemon(pokemonList);
 
+//Filtrar según generación 
+
 let searchGeneration;
 const containerGeneration = document.getElementById('generation');
 containerGeneration.addEventListener('change', () => {
@@ -125,20 +127,13 @@ containerGeneration.addEventListener('change', () => {
   closePokemones.innerHTML = '';
   searchGeneration = containerGeneration.value;
 
-  //Filtrar según generación 
-
   displayPokemon(filterByGeneration(pokemonList, searchGeneration));
 });
 
-let searchType;
-const containerType = document.getElementById('tipo');
-containerType.addEventListener('change', () => {
-  const closePokemones = document.getElementById('pokemones');
-  closePokemones.innerHTML = '';
-  searchType = containerType.value;
 
-  displayPokemon(filterByType(pokemonList, searchType));
-});
+
+
+//Filtrar según orden
 
 let searchOrder;
 const containerOrder = document.getElementById('order');
@@ -149,5 +144,53 @@ containerOrder.addEventListener('change', () => {
 
   orderByName(pokemonList, searchOrder);
   displayPokemon(pokemonList);
+});
+
+
+//Filtrar según número
+
+let searchOrderNum;
+const containerOrderNum = document.getElementById('orderNum');
+containerOrderNum.addEventListener('change', () => {
+  const closePokemones = document.getElementById('pokemones');
+  closePokemones.innerHTML = '';
+  searchOrderNum = containerOrderNum.value;
+
+  orderByNum(pokemonList, searchOrderNum);
+  displayPokemon(pokemonList);
+});
+
+
+
+//Filtrar según tipo
+//innerHTML vacio reemplaza todo el contenido por un contenido a definir 
+
+let searchType;
+const containerType = document.getElementById('tipo');
+containerType.addEventListener('change', () => {
+  const closePokemones = document.getElementById('pokemones');
+  closePokemones.innerHTML = '<h1>HOLA</h1><h1>HOLA</h1><h1>HOLA</h1><h1>HOLA</h1>';
+  searchType = containerType.value;
+
+  displayPokemon(filterByType(pokemonList, searchType));
+
+
+
+});
+
+
+
+//Filtrar según Resistencia 
+
+let searchResistant;
+const containerResistant = document.getElementById('resistencia');
+containerResistant.addEventListener('change', () => {
+  const closePokemones = document.getElementById('pokemones');
+  closePokemones.innetHTML = '';
+
+
+  searchOrder = containerOrder.value;
+
+  displayPokemon(filterByResistant(pokemonList, searchResistant));
 });
 

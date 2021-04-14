@@ -1,5 +1,5 @@
 import {
-  filterByGeneration, filterByType, orderByName,
+  filterByGeneration, filterByType,
 } from '../src/data.js';
 import data from '../src/data/pokemon/pokemon.js';
 
