@@ -1,4 +1,4 @@
-# DATADEX 
+# DATADEX ✨
 
 _Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanáticos de Pokémon Go, dándoles una experiencia similar a la de los personajes en la serie de Pokémon._
 
@@ -6,12 +6,13 @@ _Para poder trabajar de manera más transparente se hizo una recolección de dat
 
 ![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/datos.jpg)
 
-_Opiniones destacadas utilizadas en nuestro planteamiento._
-
--Basar la interfaz en el diseño de la Pokedex para mantener la experiencia dentro del juego.
--Que el interfaz sea completo, todo se muestre dentro de la misma página sin tener que estar navegando de manera exhaustiva. 
--Habilitar un modo de experiencia online que se actualice a tiempo real como "Eventos".
--Que se mantenga la estética dentro de todo el concepto y no sólo en la portada, manteniendo una gama de colores. 
+# Opiniones destacadas ✍
+<ol>
+<li>-Basar la interfaz en el diseño de la Pokedex para mantener la experiencia dentro del juego.</li>
+<li>-Que el interfaz sea completo, todo se muestre dentro de la misma página sin tener que estar navegando de manera exhaustiva. </li>
+<li>-Habilitar un modo de experiencia online que se actualice a tiempo real como "Eventos".</li>
+<li>-Que se mantenga la estética dentro de todo el concepto y no sólo en la portada, manteniendo una gama de colores. </li>
+</ol>
 
 ## Pruebas iniciales 🙌
 
@@ -19,46 +20,40 @@ _Se desarrollo la idea principal en papel y luego en Figma para poder maquetear 
 
 ![Boceto en papel](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/prototipo.png)
 
-
 _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general todas las rutas nacen desde HOME para llegar a las pestañas superiores con información adicional, a la búsqueda particular por Pokémon o a la data general donde poder filtrar.
 
-![Figma protótipo inicial, ruta 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)
+![Figma protótipo Pantallas 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)
 
-![Figma protótipo inicial, ruta 2](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma2.png)
+![Figma protótipo Pantallas 2](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma2.png)
 
+<div align="center">Link de Figma: https://www.figma.com/file/zqLbaPrtNhidqb9XIoIGkQ/DATA-LOVERS-3?node-id=0%3A1</div>
 
+### Cambios en la interfaz 🖐
 
-<div align="center">Link de Figma: https://www.figma.com/proto/bCeFoMai8qapVZnef6mNCB/Donaciones-uvu?node-id=5%3A17&scaling=min-zoom</div>
+_Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible.
 
-### Cambios en la interfaz 🐹
+![Imagen para botón a Segunda Pantalla](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu1.png)
 
-_Para facilitar la experiencia del usuario se agrego una imagen explicativa del código verificador._
-
-
-![Tarjeta](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Tarjeta.png)
-
+![Imagenes con Slider e información con Scroll](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu2.png)
 
 ## Cambios en el código HTML ⚙️
 
-_Como recomendación se me indico que era recomendable trabajar todo mi código html en sólo un archivo y no linkear entre archivos._
+_Se trabajo toda la diagramación en HTML, aunque se puede encontrar adjunta la Página HOME completa en Javascript a modo de práctica._
+_Hay jerarquía de contenedores para poder haber diagramado sobre imágenes. Contenedor de imagen de fondo general, contenedor de imagen de la Pokédex y contenedor del orden interno de los elementos de la Pokedex. Esto con el fin de poder desplazar los elementos en la página con total comodidad._
 
  <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/muchoshtml.png">
+    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/codigo.png">
  </p>
+ 
+_Se juntaron todos los archivos html en uno principal trabajando el flujo de páginas a través de JS._
 
-
-_Se juntaron todos los archivos html en uno principal trabajando el flujo de páginas a través de JS. La única página que quedo excenta fue la del Código Verificador debido a que en esta ocasión no logre vincularla al flujo principal._
-
- <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/pocoshtml.png">
- </p>
 
 ## Uso de JavaScript 🔐
 
 _Lo primero que se trabajo en JS fue la vinculación de las páginas a través de apagar y encender secciones del código._
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/JS.jpg">
+    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/cambiopagina.png">
  </p>
 
 _Y en paralelo los botones bajo la etiqueta "volver" se redireccionaron hacía "Home"._
