@@ -2,7 +2,7 @@
 
 _Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanáticos de Pokémon Go, dándoles una experiencia similar a la de los personajes en la serie de Pokémon._
 
-_Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones de donde rescatamos el concepto general de trabajo. La idea principal fue desarrollar una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del Pokémon Go._
+_Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones de donde rescatamos el concepto general de trabajo. La idea principal fue desarrollar una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del Pokémon._
 
 ![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/datos.jpg)
 
@@ -30,7 +30,7 @@ _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general
 
 ### Cambios en la interfaz 🖐
 
-_Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible.
+_Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible._
 
 ![Imagen para botón a Segunda Pantalla](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu1.png)
 
