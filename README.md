@@ -22,9 +22,9 @@ _Se desarrollo la idea principal en papel y luego en Figma para poder maquetear 
 
 _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general todas las rutas nacen desde HOME para llegar a las pestañas superiores con información adicional, a la búsqueda particular por Pokémon o a la data general donde poder filtrar.
 
-![Figma protótipo Pantallas 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)
+<div align="center">![Figma protótipo Pantallas 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)</div>
 
-![Figma protótipo Pantallas 2](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma2.png)
+<div align="center">![Figma protótipo Pantallas 2](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma2.png)</div>
 
 <div align="center">Link de Figma: https://www.figma.com/file/zqLbaPrtNhidqb9XIoIGkQ/DATA-LOVERS-3?node-id=0%3A1</div>
 
