@@ -63,12 +63,15 @@ _En el documento Data podemos encontrar las funciones que ayudan a filtrar nuest
 
 _Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nuestro protótipo de Figma. No pudimos habilitar la ventana de búsqueda por nombre y/o número debido a la dificultad de diagramación que tenía el proyecto, pero estamos conformes con las demás funcionalidades. Tenemos 5 tipos de filtro dentro de nuestra data general. También tenemos 3 pestañas de información adicional las cuales cumplen con nuestra necesidad de informar y mantener el proyecto "actualizado"._
 
-_Diágrama de flujo principal desde HOME a la DataDex general_. 
+_Diágrama de flujo principal desde HOME a la DataDex general. Las fichas que contienen la información básica del Pokémon se voltean al contacto, dejando así a la vista la información adicional del mismo._ 
 
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png"></p>
 
-_Pantallas secundarias de información_. 
+_Pantallas secundarias de información para que los usuarios puedan sacar el máximo provecho de la plataforma._ 
 
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png"></p>
+
+
+#Gracias por estar aquí de parte del equipo <3
 
 
