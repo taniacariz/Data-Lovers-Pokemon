@@ -5,8 +5,7 @@ _Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanát
 _Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones desde donde pudimos rescatar el concepto de trabajar con una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del juego._
 
 
-![Gráficos ](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/figmageneral.jpg)
-
+![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Datos.png)
 
 
 ## Pruebas iniciales 🙌
@@ -14,9 +13,14 @@ _Para poder trabajar de manera más transparente se hizo una recolección de dat
 _Se desarrollo la idea principal en papel y luego en Figma para poder maquetear y confirmar nuestra capacidad de diagramar lo que teníamos en mente._
 
 
+![Boceto en papel](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/prototipo.png)
 
 
-![Figma protótipo inicial](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/figmageneral.jpg)
+![Figma protótipo inicial, ruta 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)
+
+![Figma protótipo inicial, ruta 2](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma2.png)
+
+
 
 <div align="center">Link de Figma: https://www.figma.com/proto/bCeFoMai8qapVZnef6mNCB/Donaciones-uvu?node-id=5%3A17&scaling=min-zoom</div>
 
