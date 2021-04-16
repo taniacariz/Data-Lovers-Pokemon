@@ -38,15 +38,13 @@ _Para facilitar la experiencia del se agregaron algunos elementos visuales, resp
 
 ## Cambios en el código HTML ⚙️
 
-_Se trabajo toda la diagramación en HTML, aunque se puede encontrar adjunta la Página HOME completa en Javascript a modo de práctica._
-_Hay jerarquía de contenedores para poder haber diagramado sobre imágenes. Contenedor de imagen de fondo general, contenedor de imagen de la Pokédex y contenedor del orden interno de los elementos de la Pokedex. Esto con el fin de poder desplazar los elementos en la página con total comodidad._
+_Se trabajo toda la diagramación en HTML, aunque se puede encontrar adjunta la Página HOME trabajada en Javascript a modo de práctica._
+_Hay jerarquía de contenedores para poder diagramar sobre las imágenes base. Contenedor de imagen de fondo general, contenedor de imagen de la Pokédex y contenedor del orden interno de los elementos de la Pokedex. Esto con el fin de poder desplazar los elementos en la página con total comodidad._
 
  <p align="center"> 
     <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/codigo.png">
  </p>
  
-_Se juntaron todos los archivos html en uno principal trabajando el flujo de páginas a través de JS._
-
 
 ## Uso de JavaScript 🔐
 
@@ -56,44 +54,30 @@ _Lo primero que se trabajo en JS fue la vinculación de las páginas a través d
     <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/cambiopagina.png">
  </p>
 
-_Y en paralelo los botones bajo la etiqueta "volver" se redireccionaron hacía "Home"._
+_En el documento Data podemos encontrar las funciones que ayudan a filtrar nuestra data principal, las cuales luego exportamos a Main._
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/JS1.jpg">
+    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/funcion.png">
  </p>
-  
-_En última instancia se trabajo en el Validator, dividido en dos pasos. "IsValid" para la validación y "Maskify", el cual se encarga de esconder los números de la tarjeta de crédito ingresada
-
-_Para poder iniciar el Validator lo vinculamos al botón de "¿Confirmar?"._
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/JS2.jpg">
- </p>
+   <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/displayfuncion.png">
+</p>
 
-_1. Si los carácteres ingresados no son números, son menos de 16 o no es una tarjeta de Crédito Válida nos arroja un "alert" con un mensaje que nos solicita intentar nuevamente._
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/JS3.jpg">
- </p>
- 
-_2. En caso de que los datos sean correctos ("true"), nos arroja un "alert" con los números de la tarjeta "enmascarados". En esta instancia no logré enmascarar el número en el mismo input, dejándolo como una oportunidad pendiente para otro proyecto._
+## Trabajo final y observaciones ✨💖
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/JS4.jpg">
- </p>
+_Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nuestro protótipo de Figma. No pudimos habilitar la ventana de búsqueda por nombre y/o número debido a la dificultad de diagramación que tenía el proyecto, pero estamos conformes con las demás funcionalidades. Tenemos 5 tipos de filtro dentro de nuestra data general. También tenemos 3 pestañas de información adicional las cuales cumplen con nuestra necesidad de informar y mantener el proyecto "actualizado"._
 
-## Trabajo final y observaciones 🐰✨💖
-
-_Diseño final del proyecto. En aspectos generales, es una copia casi fiel de mi protótipo de Figma. Quisiera no haber tenido que utilizar el botón de "confirmación" para validar y así poder manejar totalmente la misma diagramación, pero aún así no hay una inconsistencia visual._
+Diágrama de flujo principal desde HOME a la DataDex general. 
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/finalfinal.jpg">
+    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
  </p>
 
-_También hubo un cambio en algunos colores generales, pero siempre respetando la paleta. Quisiera para el próximo proyecto poder trabajar mejor el Responsive Desing y así adaptar correctamente mi pantalla a dispositivos más pequeños. Mi proyecto se ajusta al tamaño de otros dispositivos, pero no completa la pantalla en la parte inferior y me molesta, visualmente hablando. No pude manejar bien el center tanto en horizontal como vertical debido a que hice algunas "sub categorias" de orden, como en el caso de la página de validación en la cual tengo muchos "inputs"._
+Pantallas secundarias de información. 
 
-_Y respecto a mi trabajo en JS, espero que en este próximo proyecto no sea tan difícil para mi. El aspecto visual se me hace mucho más sencillo, por lo cual sé cuál es el enfoque que debo darle a mis próximos pasos en términos de estudios._
+<p align="center"> 
+    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
+ </p>
 
-
-Quedé conforme con mi trabajo y agradezco nuevamente la experiencia <3. 
-¡Muchas gracias!
