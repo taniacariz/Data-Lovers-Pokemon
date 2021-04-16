@@ -1,20 +1,26 @@
-# Proyecto orientado a los fanáticos de Pokémon Go
+# DATADEX 
 
-_Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanáticos de Pokémon Go, dándoles una experiencia similar a lo que pudieron haber encontrado tanto en la serie como en los juegos._
+_Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanáticos de Pokémon Go, dándoles una experiencia similar a la de los personajes en la serie de Pokémon._
 
-_Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones desde donde pudimos rescatar el concepto de trabajar con una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del juego._
-
+_Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones de donde rescatamos el concepto general de trabajo. La idea principal fue desarrollar una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del Pokémon Go._
 
 ![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/datos.jpg)
 
+_Opiniones destacadas utilizadas en nuestro planteamiento._
+
+-Basar la interfaz en el diseño de la Pokedex para mantener la experiencia dentro del juego.
+-Que el interfaz sea completo, todo se muestre dentro de la misma página sin tener que estar navegando de manera exhaustiva. 
+-Habilitar un modo de experiencia online que se actualice a tiempo real como "Eventos".
+-Que se mantenga la estética dentro de todo el concepto y no sólo en la portada, manteniendo una gama de colores. 
 
 ## Pruebas iniciales 🙌
 
-_Se desarrollo la idea principal en papel y luego en Figma para poder maquetear y confirmar nuestra capacidad de diagramar lo que teníamos en mente._
-
+_Se desarrollo la idea principal en papel y luego en Figma para poder maquetear la base de nuestro proyecto._
 
 ![Boceto en papel](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/prototipo.png)
 
+
+_Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general todas las rutas nacen desde HOME para llegar a las pestañas superiores con información adicional, a la búsqueda particular por Pokémon o a la data general donde poder filtrar.
 
 ![Figma protótipo inicial, ruta 1](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Figma1.png)
 
