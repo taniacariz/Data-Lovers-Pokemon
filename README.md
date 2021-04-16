@@ -32,9 +32,9 @@ _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general
 
 _Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible._
 
-![Imagen para botón a Segunda Pantalla](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu1.png)
+![Imagen para botón a Segunda Pantalla](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu1.png)
 
-![Imagenes con Slider e información con Scroll](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu2.png)
+![Imagenes con Slider e información con Scroll](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu2.png)
 
 ## Cambios en el código HTML ⚙️
 
@@ -42,7 +42,7 @@ _Se trabajo toda la diagramación en HTML, aunque se puede encontrar adjunta la 
 _Hay jerarquía de contenedores para poder diagramar sobre las imágenes base. Contenedor de imagen de fondo general, contenedor de imagen de la Pokédex y contenedor del orden interno de los elementos de la Pokedex. Esto con el fin de poder desplazar los elementos en la página con total comodidad._
 
  <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/codigo.png">
+    <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/codigo.png">
  </p>
  
 
@@ -51,17 +51,17 @@ _Hay jerarquía de contenedores para poder diagramar sobre las imágenes base. C
 _Lo primero que se trabajo en JS fue la vinculación de las páginas a través de apagar y encender secciones del código._
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/cambiopagina.png">
+    <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/cambiopagina.png">
  </p>
 
 _En el documento Data podemos encontrar las funciones que ayudan a filtrar nuestra data principal, las cuales luego exportamos a Main._
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/funcion.png">
+    <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/master/src/images/funcion.png">
  </p>
 
 <p align="center"> 
-   <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/displayfuncion.png">
+   <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/displayfuncion.png">
 </p>
 
 
@@ -72,12 +72,12 @@ _Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nu
 Diágrama de flujo principal desde HOME a la DataDex general. 
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
+    <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png">
  </p>
 
 Pantallas secundarias de información. 
 
 <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
+    <img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png">
  </p>
 
