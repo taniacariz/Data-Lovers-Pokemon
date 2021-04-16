@@ -30,11 +30,11 @@ _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general
 
 ### Cambios en la interfaz 🖐
 
-_Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible._
+_Para facilitar la experiencia del se agregaron algunos elementos visuales respetando el diseño de Figma inicial lo máximo posible. Al ser una página para distintos tipos de usuario se busca que sea intuitiva._
 
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu1.png"></p>
 
-_Implementación de Slider y Scroll para los contenedores de información. Se busca que la página sea más interactiva._
+_Implementación de Slider y Scroll para los contenedores de información. Se busca que la página sea más interactiva a través de cambio de página. También se implementa un botón de "back" utilizando la misma imagen de la Pokedex contenedora para hacerla más funcional._
 
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu2.png"></p>
 
