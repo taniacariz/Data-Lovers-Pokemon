@@ -72,6 +72,6 @@ _Pantallas secundarias de información para que los usuarios puedan sacar el má
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png"></p>
 
 
-#Gracias por estar aquí de parte del equipo <3
+## Gracias por estar aquí de parte del equipo de ñoñas <3
 
 
