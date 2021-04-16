@@ -54,7 +54,7 @@ _Lo primero que se trabajo en JS fue la vinculación de las páginas a través d
 
 _En el documento Data podemos encontrar las funciones que ayudan a filtrar nuestra data principal, las cuales luego exportamos a Main._
 
-<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/master/src/images/funcion.png"></p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/funcion.png"></p>
 
 <p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/displayfuncion.png"></p>
 
