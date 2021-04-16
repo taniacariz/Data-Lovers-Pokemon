@@ -5,7 +5,7 @@ _Nuestra DataDex fue pensaba en ser amigable e intuitiva con los usuarios fanát
 _Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones desde donde pudimos rescatar el concepto de trabajar con una "Pokedex" y mantener la experiencia de los mismos personajes de la serie. Este catastro de datos fue respondido por un aproximado de 100 personas fanáticas del juego._
 
 
-![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Datos.png)
+![Gráficos ](https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/datos.jpg)
 
 
 ## Pruebas iniciales 🙌
