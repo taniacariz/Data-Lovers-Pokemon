@@ -173,9 +173,7 @@ containerType.addEventListener('change', () => {
   searchType = containerType.value;
 
   displayPokemon(filterByType(pokemonList, searchType));
-
-
-
+  
 });
 
 
