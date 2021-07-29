@@ -30,54 +30,48 @@ _Posibles pantallas de trabajo dentro de nuestra Pokédex. Bajo un orden general
 
 ### Cambios en la interfaz 🖐
 
-_Para facilitar la experiencia del se agregaron algunos elementos visuales, respetando el diseño de Figma inicial lo máximo posible._
+_Para facilitar la experiencia del se agregaron algunos elementos visuales respetando el diseño de Figma inicial lo máximo posible. Al ser una página para distintos tipos de usuario se busca que sea intuitiva._
 
-![Imagen para botón a Segunda Pantalla](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu1.png)
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu1.png"></p>
 
-![Imagenes con Slider e información con Scroll](https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/Pikachu2.png)
+_Implementación de Slider y Scroll para los contenedores de información. Se busca que la página sea más interactiva a través de cambio de página. También se implementa un botón de "back" utilizando la misma imagen de la Pokedex contenedora para hacerla más funcional._
+
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/Pikachu2.png"></p>
 
 ## Cambios en el código HTML ⚙️
 
 _Se trabajo toda la diagramación en HTML, aunque se puede encontrar adjunta la Página HOME trabajada en Javascript a modo de práctica._
 _Hay jerarquía de contenedores para poder diagramar sobre las imágenes base. Contenedor de imagen de fondo general, contenedor de imagen de la Pokédex y contenedor del orden interno de los elementos de la Pokedex. Esto con el fin de poder desplazar los elementos en la página con total comodidad._
-
- <p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/codigo.png">
- </p>
+ 
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/codigo.png"></p>
  
 
 ## Uso de JavaScript 🔐
 
 _Lo primero que se trabajo en JS fue la vinculación de las páginas a través de apagar y encender secciones del código._
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/cambiopagina.png">
- </p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/cambiopagina.png"></p>
 
 _En el documento Data podemos encontrar las funciones que ayudan a filtrar nuestra data principal, las cuales luego exportamos a Main._
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/funcion.png">
- </p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/funcion.png"></p>
 
-<p align="center"> 
-   <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/displayfuncion.png">
-</p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/displayfuncion.png"></p>
 
 
 ## Trabajo final y observaciones ✨💖
 
 _Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nuestro protótipo de Figma. No pudimos habilitar la ventana de búsqueda por nombre y/o número debido a la dificultad de diagramación que tenía el proyecto, pero estamos conformes con las demás funcionalidades. Tenemos 5 tipos de filtro dentro de nuestra data general. También tenemos 3 pestañas de información adicional las cuales cumplen con nuestra necesidad de informar y mantener el proyecto "actualizado"._
 
-Diágrama de flujo principal desde HOME a la DataDex general. 
+_Diágrama de flujo principal desde HOME a la DataDex general. Las fichas que contienen la información básica del Pokémon se voltean al contacto, dejando así a la vista la información adicional del mismo._ 
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
- </p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png"></p>
 
-Pantallas secundarias de información. 
+_Pantallas secundarias de información para que los usuarios puedan sacar el máximo provecho de la plataforma._ 
 
-<p align="center"> 
-    <img src="https://github.com/tanimikyu/FundacionesCV/blob/master/src/images/rutaUno.png">
- </p>
+<p align="center"><img src="https://github.com/tanimikyu/Data-Lovers--Pokemon/blob/master/src/images/rutaUno.png"></p>
+
+
+## Gracias por haber llegado hasta aquí <3 :)
+
 
