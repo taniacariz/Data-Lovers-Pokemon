@@ -3,7 +3,6 @@ import {
   filterByGeneration,
   filterByType,
   orderByName,
-  filterByResistant,
   orderByNum,
 } from "./data.js";
 

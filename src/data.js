@@ -58,19 +58,18 @@ const orderByNum = (data, valor) => {
   }
 };
 
-//Función de resistencia
+/*Función de resistencia
 
 const filterByResistant = (data, valor) => {
   const filterPokemonByResistant = data.filter(
     (pokemon) => pokemon.resistant.indexOf(valor) > -1
   );
   return filterPokemonByResistant;
-};
+};*/
 
 export {
   filterByGeneration,
   filterByType,
   orderByName,
-  filterByResistant,
   orderByNum,
 };
